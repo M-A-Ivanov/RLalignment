@@ -6,6 +6,7 @@ import os
 from check_resolution import ImageEvaluation
 from LEEMcontrol import oLeem
 
+
 def test_image_creation():
     env = Environment(120, 20, -20)
     n_images = 5
@@ -55,6 +56,7 @@ def test_object_detection():
         plt.imshow(objects)
         plt.show()
 
+
 def test_LEEM2000_controls():
     LEEM = oLeem(port=5568)
     LEEM.connect()
@@ -66,4 +68,4 @@ def test_LEEM2000_controls():
 
 
 if __name__ == '__main__':
-    test_resolution_score()
+    test_LEEM2000_controls()
