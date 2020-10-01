@@ -2,6 +2,11 @@
 This I got directly from:
 https://github.com/heldermarchetto
 Should cite if used
+My changelog:
+    --- bc of Python3, use .encode() when passing to send, equiv use .decode() when recieving, this is bc mesage needs to be in
+    bytes
+    --- bc of python3, use " 'some key' in 'some dict' " instead of has_key()
+
 
 Created on Thu Sep 25 13:10:31 2014
 @author: Helder Marchetto
@@ -89,7 +94,7 @@ class oLeem(object):
             self.s.connect((self.ip, self.port))
             self.Leem2000Connected = True
             # Start string communication
-            self.getTcp('asc', False, False, True)
+            self.getTcp('asc'.encode(), False, False, True)
             # Get list of devices
             self.updateModules()
             self.updateValues()
@@ -172,7 +177,7 @@ class oLeem(object):
 
     def disconnect(self):
         if self.Leem2000Connected:
-            self.s.send('clo')
+            self.s.send('clo'.encode())
             self.s.close()
             self.Leem2000Connected = False
 
@@ -184,7 +189,7 @@ class oLeem(object):
         else:
             self.Values = {}
             for x in self.Mnemonic:
-                data = self.getTcp('get ' + self.Modules[x], True, False, False)
+                data = self.getTcp(('get ' + self.Modules[x]).encode(), True, False, False)
                 if is_number(data):
                     self.Values[x] = float(data)
 
@@ -195,7 +200,7 @@ class oLeem(object):
             return None
         else:
             # Get list of devices
-            self.nModules = self.getTcp('nrm', False, True, False)
+            self.nModules = self.getTcp('nrm'.encode(), False, True, False)
             # Get list of devices
             self.Modules = {}
             self.Mnemonic = {}
@@ -206,12 +211,12 @@ class oLeem(object):
             self.MnemonicUp = {}
             self.ModulesUp = {}
             for x in range(self.nModules):
-                data = self.getTcp('nam ' + str(x), False, False, True)
+                data = self.getTcp(('nam ' + str(x)).encode(), False, False, True)
                 if not data in ['', 'no name', 'invalid', 'disabled']:
                     self.Modules[x] = data
                     self.ModulesUp[x] = data.upper()
                     self.invModules[data.upper()] = x
-                data = self.getTcp('mne ' + str(x), False, False, True)
+                data = self.getTcp(('mne ' + str(x)).encode(), False, False, True)
                 if not data in ['', 'no name', 'invalid', 'disabled']:
                     self.Mnemonic[x] = data
                     self.MnemonicUp[x] = data.upper()
@@ -229,8 +234,8 @@ class oLeem(object):
             TCPString += ' '
         if is_number(module):
             m = int(module)
-            if self.Mnemonic.has_key(m):
-                data = self.getTcp(TCPString + str(m), False, False, True)
+            if m in self.Mnemonic:
+                data = self.getTcp((TCPString + str(m)).encode(), False, False, True)
                 if not data in ['', 'invalid'] and is_number(data):
                     return float(data)
                 else:
@@ -240,13 +245,13 @@ class oLeem(object):
         else:
             module = str(module)
             if module.upper() in self.invModules:
-                data = self.getTcp(TCPString + (self.invModules[module.upper()]), False, False, True)
+                data = self.getTcp((TCPString + str(self.invModules[module.upper()])).encode(), False, False, True)
                 if (not data in ['', 'invalid']) and is_number(data):
                     return float(data)
                 else:
                     return 'invalid'
             elif module.upper() in self.invMnemonic:
-                data = self.getTcp(TCPString + str(self.invMnemonic[module.upper()]), False, False, True)
+                data = self.getTcp((TCPString + str(self.invMnemonic[module.upper()])).encode(), False, False, True)
                 if not data in ['', 'invalid'] and is_number(data):
                     return float(data)
                 else:
@@ -280,10 +285,10 @@ class oLeem(object):
             self.lastTime = time.time()
             if is_number(module):
                 m = int(module)
-                return self.getTcp('set ' + str(m) + '=' + value, False, False, True) == '0'
+                return self.getTcp(('set ' + str(m) + '=' + value).encode(), False, False, True) == '0'
             else:
                 if (module.upper() in self.MnemonicUp.values()) or (module.upper() in self.ModulesUp.values()):
-                    return self.getTcp('set ' + str(module) + '=' + value, False, False, True) == '0'
+                    return self.getTcp(('set ' + str(module) + '=' + value).encode(), False, False, True) == '0'
                 else:
                     return False
 
@@ -366,7 +371,7 @@ class oLeem(object):
             else:
                 return 0.0
         else:
-            return retStr
+            return retStr.decode()
 
     def setTcp(self, TCPString, Value):
         TCPString = TCPString.strip() + ' ' + Value.strip()
@@ -379,7 +384,7 @@ class oLeem(object):
         while ord(Bytereceived) != 0:
             ReceivedLength = 0
             while ReceivedLength == 0:
-                Bytereceived = self.s.recv(1)
+                Bytereceived = self.s.recv(1).decode()
                 # print 'Bytereceived=',Bytereceived,'ord(Bytereceived)=',ord(Bytereceived)
                 ReceivedLength = len(Bytereceived)
             if ord(Bytereceived) != 0:

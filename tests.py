@@ -1,9 +1,10 @@
-from simple_cofiguration import Environment
+# from simple_cofiguration import Environment
 import numpy as np
 import matplotlib.pyplot as plt
 from tools import rawToImage
 import os
-from check_resolution import ImageEvaluation
+# from check_resolution import ImageEvaluation
+from LEEMcontrol import oLeem
 
 
 def test_image_creation():
@@ -56,5 +57,24 @@ def test_object_detection():
         plt.show()
 
 
+def test_LEEM_control(change_module=False):
+    LEEM = oLeem(port=5566, ip='localhost')
+    LEEM.connect()
+    LEEM.testConnect()
+    # for i in LEEM.Modules.values():
+    #     print(i)
+    # for i in LEEM.Mnemonic.values():
+    #     print(i)
+    if change_module:
+        current = LEEM.getValue('Cond. Lens 3')
+        print('The value of CL3 is: {}'.format(current))
+        current = current + (1/40)*current
+        print('Changing by +2.5% ... ')
+        LEEM.setValue('Cond. Lens 3', current)
+        current = LEEM.getValue('Cond. Lens 3')
+        print('New current is: {}'.format(current))
+
+    LEEM.disconnect()
+
 if __name__ == '__main__':
-    test_resolution_score()
+    test_LEEM_control(change_module=True)
