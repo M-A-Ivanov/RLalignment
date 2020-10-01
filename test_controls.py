@@ -59,8 +59,10 @@ def test_LEEM2000_controls():
     LEEM = oLeem(port=5568)
     LEEM.connect()
     LEEM.testConnect()
-    for i in oLeem.Modules.values():print(i)
-    for i in oLeem.Mnemonic.values():print(i)
+    for i in oLeem.Modules.values():
+        print(i)
+    for i in oLeem.Mnemonic.values():
+        print(i)
 
 
 if __name__ == '__main__':
