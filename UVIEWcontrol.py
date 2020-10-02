@@ -120,7 +120,7 @@ class oUview(object):
         # print "Destroying", self
         if self.UviewConnected:
             # print 'Exit without closing connections... close connections'
-            self.s.send('clo')
+            self.s.send('clo'.encode())
             self.s.close()
             self.UviewConnected = False
 
@@ -135,7 +135,7 @@ class oUview(object):
             self.UviewConnected = True
             # Start string communication
             TCPString = 'asc'
-            self.s.send(TCPString)
+            self.s.send(TCPString.encode())
             data = self.TCPBlockingReceive()
 
     def testConnect(self):
@@ -201,7 +201,7 @@ class oUview(object):
 
     def disconnect(self):
         if self.UviewConnected:
-            self.s.send('clo')
+            self.s.send('clo'.encode())
             self.s.close()
             self.UviewConnected = False
             print
@@ -214,7 +214,7 @@ class oUview(object):
             return None
         else:
             TCPString = 'ida 0 0'
-            self.s.send(TCPString)
+            self.s.send(TCPString.encode())
             header = ''
             for i in range(19):
                 header += self.s.recv(1)
@@ -241,7 +241,7 @@ class oUview(object):
             return None
         else:
             TCPString = 'exp ' + str(imgFormat) + ', ' + str(imgContents) + ', ' + str(fileName)
-            self.s.send(TCPString)
+            self.s.send(TCPString.encode())
             data = self.TCPBlockingReceive()
             return len(data) == 0
 
@@ -255,7 +255,7 @@ class oUview(object):
                 return
             numAvr = int(avr)
             if (numAvr >= 0) and (numAvr <= 99):
-                retVal = self.setTcp('avr', str(numAvr))
+                retVal = self.setTcp('avr'.encode(), str(numAvr))
                 return retVal
 
     def getAvr(self):
@@ -265,7 +265,7 @@ class oUview(object):
             return None
         else:
             TCPString = 'avr'
-            self.s.send(TCPString)
+            self.s.send(TCPString.encode())
             data = self.TCPBlockingReceive()
             if is_number(data):
                 return int(data)
@@ -279,7 +279,7 @@ class oUview(object):
             return None
         else:
             TCPString = 'asi ' + str(id)
-            self.s.send(TCPString)
+            self.s.send(TCPString.encode())
             return self.TCPBlockingReceive()
 
     def setAcqState(self, acqState=-1):
@@ -294,7 +294,7 @@ class oUview(object):
             if (acqState != '0') or (acqState != '1'):
                 return
             TCPString = 'aip ' + str(acqState)
-            self.s.send(TCPString)
+            self.s.send(TCPString.encode())
             return self.TCPBlockingReceive()
 
     def getAcqState(self):
@@ -452,4 +452,4 @@ class oUview(object):
                 ReceivedLength = len(Bytereceived)
             if ord(Bytereceived) != 0:
                 szData = szData + Bytereceived
-        return szData
+        return szData.decode()

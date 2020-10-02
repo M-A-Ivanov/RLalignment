@@ -11,8 +11,9 @@ from config import (BATCH_SIZE, CLIP_REWARD, DISCOUNT_FACTOR,
                     TENSORBOARD_DIR, TOTAL_FRAMES, UPDATE_FREQ, USE_PER,
                     WRITE_TENSORBOARD, IMAGE_DIR)
 from ReplayBuffer import ReplayBuffer
-from simple_cofiguration import Environment
+# from simple_cofiguration import Environment
 from DDQRLNetwork import DDQNetwork
+from myLEEM import LEEM_remote
 
 
 class Agent(object):
@@ -109,7 +110,7 @@ class Agent(object):
 
         # With chance epsilon, take a random action
         if np.random.rand(1) < eps:
-            return np.random.randint(0, self.n_actions)
+            return np.random.randint(2, self.n_actions+1)
 
         # Otherwise, query the DQN for an action
         q_vals = self.DQN.main_predict(state)[0]
@@ -231,8 +232,7 @@ class Agent(object):
 
 # Create environment
 if __name__ == "__main__":
-    LEEM = Environment(120., 20., -20.)
-    LEEM.setFluffy()
+    LEEM = LEEM_remote
     # TensorBoard writer
     writer = tf.summary.create_file_writer(TENSORBOARD_DIR)
 
