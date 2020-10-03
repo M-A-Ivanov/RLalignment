@@ -307,7 +307,7 @@ class oUview(object):
             return None
         else:
             TCPString = 'aip'
-            self.s.send(TCPString)
+            self.s.send(TCPString.encode())
             return self.TCPBlockingReceive() == '1'
 
     def getROI(self):
@@ -379,7 +379,8 @@ class oUview(object):
             nm = int(nMarkers[0])
             del nMarkers[0]
             markers = []
-            for i in nMarkers: markers.append(int(i))
+            for i in nMarkers:
+                markers.append(int(i))
             return [nm, markers]
 
     def getMarkerInfo(self, marker):
@@ -418,7 +419,7 @@ class oUview(object):
                     'pos': [int(splitMarker[3]), int(splitMarker[4]), int(splitMarker[5]), int(splitMarker[6])]}
 
     def getTcp(self, TCPString, isFlt=True, isInt=False, asIs=False):
-        self.s.send(TCPString)
+        self.s.send(TCPString.encode())
         retStr = self.TCPBlockingReceive()
         if asIs:
             # print 'is asIs = ', TCPString, retStr
@@ -438,7 +439,7 @@ class oUview(object):
 
     def setTcp(self, TCPString, Value):
         TCPString = TCPString.strip() + ' ' + Value.strip()
-        self.s.send(TCPString)
+        self.s.send(TCPString.encode())
         return self.TCPBlockingReceive()
 
     def TCPBlockingReceive(self):

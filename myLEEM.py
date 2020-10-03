@@ -6,6 +6,7 @@ from skimage import io
 import the_watchdog as watch
 import time
 from tools import rawToImage
+import numpy as np
 
 
 class LEEM_remote(object):
@@ -13,8 +14,9 @@ class LEEM_remote(object):
         self.LEEM = oLeem(port=5566, ip='localhost')
         self.LEEM.connect()
         self.LEEM.testConnect()
-        self.modules = dict()
-        self._findModules()
+        self.modules = self._findModules()
+        self.state = None
+        self.configuration = self._collectConfiguration()
         self.n_actions = 2*len(self.modules)
         self.change = 1 / 100
 
@@ -32,47 +34,54 @@ class LEEM_remote(object):
         self.latest_image = None
 
     def _findModules(self):
+        modules = dict()
         for i, module in enumerate(self.LEEM.Modules.values()):
-            self.modules[i] = module
+            modules[i] = module
             # what about mnemonics? do we have any of those???
+        return modules
 
-    def positive_step_module(self, module):
+    def _collectConfiguration(self):
+        configuration = np.array((len(self.modules)))
+        for i, module in enumerate(self.modules):
+            configuration[i] = self.LEEM.getValue(module)
+        return configuration
+
+    def _positive_step_module(self, module):
         current_value = self.LEEM.getValue(module)
         new_value = (1 + self.change) * current_value
         self.LEEM.setValue(module, new_value)
         self.logging.info("The module " + module + self.template.format(current_value, new_value))
 
-    def negative_step_module(self, module):
+    def _negative_step_module(self, module):
         current_value = self.LEEM.getValue(module)
         new_value = (1 - self.change) * current_value
         self.LEEM.setValue(module, new_value)
         self.logging.info("The module " + module + self.template.format(current_value, new_value))
 
-    @staticmethod
-    def getImage(path):
-        return rawToImage(path)
+    def reset(self):
+        for i, module in enumerate(self.modules):
+            self.LEEM.setValue(np.random.normal(loc=self.configuration[i], scale=abs(0.05*self.configuration[i])) )
 
-    def WDImageFound(self, image_path):
-        self.latest_image = image_path
-        self.image_created_flag = True
+        self.state = self.Uview.getImage()
 
     def action(self, action_key):
         """actions are integers from 2 to 2*(number of actions)+1, where an even number 2k indicates positive change
             in module k, odd number 2k+1 indicates negative change in module k"""
         if action_key % 2 == 0:
-            self.positive_step_module(self.module[int(action_key / 2)])
+            self._positive_step_module(self.module[int(action_key / 2)])
         else:
-            self.negative_step_module(self.module[int((action_key - 1) / 2)])
+            self._negative_step_module(self.module[int((action_key - 1) / 2)])
 
     def step(self, action):
         self.action(action_key=action)
-
-        reward = check_resolution.ImageEvaluation(self.Uview.getImage())
+        output_image = self.Uview.getImage()
+        reward = check_resolution.ImageEvaluation(output_image)
+        self.state.append(output_image)
         self.step_counter += 1
-        return self.getImage(self.latest_image), reward, self._isDone()
+        return output_image, reward, self._isDone(reward)
 
-    def _isDone(self):
-        return self.step_counter > 10000
+    def _isDone(self, reward):
+        return self.step_counter > 10000 or reward < 10000
 
     def print_state(self):
         for i in self.LEEM.Modules.values():
@@ -81,6 +90,13 @@ class LEEM_remote(object):
             print(i)
 
     """Watchdog methods: """
+    @staticmethod
+    def getImage(path):
+        return rawToImage(path)
+
+    def WDImageFound(self, image_path):
+        self.latest_image = image_path
+        self.image_created_flag = True
 
     def WDwatchdogReactivate(self):
         self.WDwatchForImage()

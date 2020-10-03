@@ -1,5 +1,4 @@
 import tensorflow as tf
-from tf_model import Memory
 
 """Following this tutorial:
 https://github.com/EvolvedSquid/tutorials/tree/master/dqn
@@ -47,7 +46,7 @@ class QNetwork(tf.keras.models.Model):
 
     @tf.function
     def call(self, inputs):
-        propagate = self.input_layer(inputs)
+        propagate = inputs
         for layer in self.conv_layers:
             propagate = layer(propagate)
         val_stream, adv_stream = self.stream_splitter_layer(propagate)
@@ -89,7 +88,7 @@ class DDQNetwork(object):
         return self.target_network.predict(state)
 
     def action_query(self, state):
-        return self.predict(state)[0]
+        return self.main_predict(state)[0]
 
     def update_target_network(self):
         self.target_network.set_weights(self.main_network.get_weights())

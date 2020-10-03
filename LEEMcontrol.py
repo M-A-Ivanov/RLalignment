@@ -80,7 +80,7 @@ class oLeem(object):
         # print "Destroying", self
         if self.Leem2000Connected:
             # print 'Exit without closing connections... close connections'
-            self.s.send('clo')
+            self.s.send('clo'.encode())
             self.s.close()
             self.Leem2000Connected = False
 
@@ -94,7 +94,7 @@ class oLeem(object):
             self.s.connect((self.ip, self.port))
             self.Leem2000Connected = True
             # Start string communication
-            self.getTcp('asc'.encode(), False, False, True)
+            self.getTcp('asc', False, False, True)
             # Get list of devices
             self.updateModules()
             self.updateValues()
@@ -189,7 +189,7 @@ class oLeem(object):
         else:
             self.Values = {}
             for x in self.Mnemonic:
-                data = self.getTcp(('get ' + self.Modules[x]).encode(), True, False, False)
+                data = self.getTcp(('get ' + self.Modules[x]), True, False, False)
                 if is_number(data):
                     self.Values[x] = float(data)
 
@@ -200,7 +200,7 @@ class oLeem(object):
             return None
         else:
             # Get list of devices
-            self.nModules = self.getTcp('nrm'.encode(), False, True, False)
+            self.nModules = self.getTcp('nrm', False, True, False)
             # Get list of devices
             self.Modules = {}
             self.Mnemonic = {}
@@ -211,12 +211,12 @@ class oLeem(object):
             self.MnemonicUp = {}
             self.ModulesUp = {}
             for x in range(self.nModules):
-                data = self.getTcp(('nam ' + str(x)).encode(), False, False, True)
+                data = self.getTcp(('nam ' + str(x)), False, False, True)
                 if not data in ['', 'no name', 'invalid', 'disabled']:
                     self.Modules[x] = data
                     self.ModulesUp[x] = data.upper()
                     self.invModules[data.upper()] = x
-                data = self.getTcp(('mne ' + str(x)).encode(), False, False, True)
+                data = self.getTcp(('mne ' + str(x)), False, False, True)
                 if not data in ['', 'no name', 'invalid', 'disabled']:
                     self.Mnemonic[x] = data
                     self.MnemonicUp[x] = data.upper()
@@ -235,7 +235,7 @@ class oLeem(object):
         if is_number(module):
             m = int(module)
             if m in self.Mnemonic:
-                data = self.getTcp((TCPString + str(m)).encode(), False, False, True)
+                data = self.getTcp((TCPString + str(m)), False, False, True)
                 if not data in ['', 'invalid'] and is_number(data):
                     return float(data)
                 else:
@@ -245,13 +245,13 @@ class oLeem(object):
         else:
             module = str(module)
             if module.upper() in self.invModules:
-                data = self.getTcp((TCPString + str(self.invModules[module.upper()])).encode(), False, False, True)
+                data = self.getTcp((TCPString + str(self.invModules[module.upper()])), False, False, True)
                 if (not data in ['', 'invalid']) and is_number(data):
                     return float(data)
                 else:
                     return 'invalid'
             elif module.upper() in self.invMnemonic:
-                data = self.getTcp((TCPString + str(self.invMnemonic[module.upper()])).encode(), False, False, True)
+                data = self.getTcp((TCPString + str(self.invMnemonic[module.upper()])), False, False, True)
                 if not data in ['', 'invalid'] and is_number(data):
                     return float(data)
                 else:
@@ -285,10 +285,10 @@ class oLeem(object):
             self.lastTime = time.time()
             if is_number(module):
                 m = int(module)
-                return self.getTcp(('set ' + str(m) + '=' + value).encode(), False, False, True) == '0'
+                return self.getTcp(('set ' + str(m) + '=' + value), False, False, True) == '0'
             else:
                 if (module.upper() in self.MnemonicUp.values()) or (module.upper() in self.ModulesUp.values()):
-                    return self.getTcp(('set ' + str(module) + '=' + value).encode(), False, False, True) == '0'
+                    return self.getTcp(('set ' + str(module) + '=' + value), False, False, True) == '0'
                 else:
                     return False
 
@@ -355,7 +355,7 @@ class oLeem(object):
                 return (0, 0)
 
     def getTcp(self, TCPString, isFlt=True, isInt=False, asIs=False):
-        self.s.send(TCPString)
+        self.s.send(TCPString.encode())
         retStr = self.TCPBlockingReceive()
         if asIs:
             # print 'is asIs = ', TCPString, retStr
