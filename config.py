@@ -30,11 +30,9 @@ DISCOUNT_FACTOR = 0.99            # Gamma, how much to discount future rewards
 MIN_REPLAY_BUFFER_SIZE = 500    # The minimum size the replay buffer must be before we start to update the agent
 MEM_SIZE = 10000               # The maximum size of the replay buffer
 
-MAX_NOOP_STEPS = 20               # Randomly perform this number of actions before every evaluation to give it an element of randomness
+MAX_NOOP_STEPS = 10               # Randomly perform this number of actions before every evaluation to give it an element of randomness
 UPDATE_FREQ = 1                   # Number of actions between gradient descent steps
 
 INPUT_SHAPE = (1024, 1024)            # Size of the preprocessed input frame. With the current model architecture, anything below ~80 won't work.
 BATCH_SIZE = 32                   # Number of samples the agent learns from at once
-LEARNING_RATE = 0.001
-
-IMAGE_DIR = "C:\\Users\\User\\OneDrive - Cardiff University\\Data\\simulations\\RL\\"
+LEARNING_RATE = 0.01

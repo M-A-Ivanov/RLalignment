@@ -9,7 +9,7 @@ from config import (BATCH_SIZE, CLIP_REWARD, DISCOUNT_FACTOR,
                     MAX_EPISODE_LENGTH, MAX_NOOP_STEPS, MEM_SIZE,
                     MIN_REPLAY_BUFFER_SIZE, PRIORITY_SCALE, SAVE_PATH,
                     TENSORBOARD_DIR, TOTAL_FRAMES, UPDATE_FREQ, USE_PER,
-                    WRITE_TENSORBOARD, IMAGE_DIR)
+                    WRITE_TENSORBOARD)
 from ReplayBuffer import ReplayBuffer
 from DDQRLNetwork import DDQNetwork
 from myLEEM import LEEM_remote
@@ -85,8 +85,8 @@ try:
 
                 rewards.append(episode_reward_sum)
 
-                # Output the progress every 10 games
-                if len(rewards) % 10 == 0:
+                # Output the progress every 1 games
+                if len(rewards) % 1 == 0:
                     # Write to TensorBoard
                     if WRITE_TENSORBOARD:
                         tf.summary.scalar('Reward', np.mean(rewards[-10:]), frame_number)
@@ -107,12 +107,11 @@ try:
             for _ in range(EVAL_LENGTH):
                 if terminal:
                     LEEM.reset()
-                    life_lost = True
                     episode_reward_sum = 0
                     terminal = False
 
                 # Step action
-                _, reward, terminal, life_lost = LEEM.step(action)
+                _, reward, terminal = LEEM.step(action)
                 evaluate_frame_number += 1
                 episode_reward_sum += reward
 

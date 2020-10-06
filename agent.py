@@ -1,19 +1,7 @@
 import numpy as np
 import tensorflow as tf
 import json
-import time
 import os
-from config import (BATCH_SIZE, CLIP_REWARD, DISCOUNT_FACTOR,
-                    EVAL_LENGTH, FRAMES_BETWEEN_EVAL, INPUT_SHAPE,
-                    LEARNING_RATE, LOAD_FROM, LOAD_REPLAY_BUFFER,
-                    MAX_EPISODE_LENGTH, MAX_NOOP_STEPS, MEM_SIZE,
-                    MIN_REPLAY_BUFFER_SIZE, PRIORITY_SCALE, SAVE_PATH,
-                    TENSORBOARD_DIR, TOTAL_FRAMES, UPDATE_FREQ, USE_PER,
-                    WRITE_TENSORBOARD, IMAGE_DIR)
-from ReplayBuffer import ReplayBuffer
-# from simple_cofiguration import Environment
-from DDQRLNetwork import DDQNetwork
-from myLEEM import LEEM_remote
 
 
 class Agent(object):
