@@ -34,5 +34,5 @@ MAX_NOOP_STEPS = 10               # Randomly perform this number of actions befo
 UPDATE_FREQ = 1                   # Number of actions between gradient descent steps
 
 INPUT_SHAPE = (1024, 1024)            # Size of the preprocessed input frame. With the current model architecture, anything below ~80 won't work.
-BATCH_SIZE = 32                   # Number of samples the agent learns from at once
+BATCH_SIZE = 8                  # Number of samples the agent learns from at once
 LEARNING_RATE = 0.01

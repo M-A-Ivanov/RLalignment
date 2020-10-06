@@ -217,7 +217,7 @@ class oUview(object):
             self.s.send(TCPString.encode())
             header = ''
             for i in range(19):
-                header += self.s.recv(1)
+                header += self.s.recv(1).decode()
             arr = header.split()
             if len(arr) != 3:
                 print
@@ -232,6 +232,7 @@ class oUview(object):
             else:
                 for i in range(ys):
                     img[:, i] = struct.unpack('{0}H'.format(xs), self.s.recv(xs * 2))
+            data = self.TCPBlockingReceive()
             return img
 
     def exportImage(self, fileName, imgFormat='0', imgContents='0'):
@@ -448,9 +449,9 @@ class oUview(object):
         while ord(Bytereceived) != 0:
             ReceivedLength = 0
             while ReceivedLength == 0:
-                Bytereceived = self.s.recv(1)
+                Bytereceived = self.s.recv(1).decode()
                 # print 'Bytereceived=',Bytereceived,'ord(Bytereceived)=',ord(Bytereceived)
                 ReceivedLength = len(Bytereceived)
             if ord(Bytereceived) != 0:
                 szData = szData + Bytereceived
-        return szData.decode()
+        return szData

@@ -1,0 +1,1531 @@
+05:43:20 LEEM RESET ----------
+05:43:20 The module ISTIGA changed from 6.64013 mA to 6.64013 mA
+05:43:20 The module ISTIGB changed from -78.27237 mA to -78.27237 mA
+05:43:20 The module ILUDX changed from -11.84349 mA to -11.84349 mA
+05:43:20 The module ILUDY changed from -8.223849 mA to -8.223849 mA
+05:43:20 The module CL3 changed from 876.3098 mA to 876.3098 mA
+05:43:20 The module CL3DX changed from 138.5457 mA to 138.5457 mA
+05:43:20 The module CL3DY changed from -134.4348 mA to -134.4348 mA
+05:43:20 The module CL2 changed from 2501.079 mA to 2501.079 mA
+05:43:20 The module CL2DX changed from -13.31993 mA to -13.31993 mA
+05:43:20 The module CL2DY changed from 57.46403 mA to 57.46403 mA
+05:43:20 The module CL1 changed from 892.0 mA to 892.0 mA
+05:43:20 The module MOBJ changed from 1627.155 mA to 1627.155 mA
+05:43:20 The module OSTIGA changed from -35.99526 mA to -35.99526 mA
+05:43:20 The module OSTIGB changed from 42.00241 mA to 42.00241 mA
+05:43:20 The module TL changed from 683.1323 mA to 683.1323 mA
+05:43:20 The module DSTIGA changed from -26.69139 mA to -26.69139 mA
+05:43:20 The module DSTIGB changed from 35.07447 mA to 35.07447 mA
+05:43:20 The module FLDX changed from -1.817758 mA to -1.817758 mA
+05:43:20 The module FLDY changed from -32.5656 mA to -32.5656 mA
+05:43:20 The module FL changed from 1692.0 mA to 1692.0 mA
+05:43:20 The module ILDX changed from -23.29885 mA to -23.29885 mA
+05:43:20 The module IL changed from 1286.0 mA to 1286.0 mA
+05:43:20 The module P1DX changed from 31.0084 mA to 31.0084 mA
+05:43:20 The module P1DY changed from 52.91543 mA to 52.91543 mA
+05:43:20 The module P1 changed from 1500.0 mA to 1500.0 mA
+05:43:20 The module P2AX changed from -26.85268 mA to -26.85268 mA
+05:43:20 The module P2AY changed from 47.12366 mA to 47.12366 mA
+05:43:20 The module P2 changed from 4100.0 mA to 4100.0 mA
+05:43:20 The module SELO changed from 600.8818 mA to 600.8818 mA
+05:43:20 The module SELI changed from 285.12 mA to 285.12 mA
+05:43:20 The module OBJDX changed from 1.731806 mA to 1.731806 mA
+05:43:20 The module OBJDY changed from -4.334632 mA to -4.334632 mA
+05:43:20 The module STV changed from 0.01001091 mA to 0.01001091 mA
+05:43:20 The module ILDY changed from -1.449999 mA to -1.449999 mA
+05:43:20 The module SELO changed from 600.8818 mA to 600.8818 mA
+05:43:20 The module FLDX changed from -1.817758 mA to -2.1813096 mA
+05:43:21 The module CL3DX changed from 138.5457 mA to 207.81855000000002 mA
+05:43:21 The module FL changed from 1692.0 mA to 3384.0 mA
+05:43:22 The module SELO changed from 600.8818 mA to 600.8818 mA
+05:43:22 The module ILDX changed from -23.29885 mA to -11.649425 mA
+05:43:23 The module SELO changed from 600.8818 mA to 600.8818 mA
+05:43:23 The module FLDX changed from -2.18131 mA to -2.6175719999999996 mA
+05:43:24 The module CL3 changed from 876.3098 mA to 1752.6196 mA
+05:43:24 The module P2AY changed from 47.12366 mA to 70.68549 mA
+05:48:28 LEEM RESET ----------
+05:48:28 The module ISTIGA changed from 6.64013 mA to 6.64013 mA
+05:48:28 The module ISTIGB changed from -78.27237 mA to -78.27237 mA
+05:48:28 The module ILUDX changed from -11.84349 mA to -11.84349 mA
+05:48:28 The module ILUDY changed from -8.223849 mA to -8.223849 mA
+05:48:28 The module CL3 changed from 876.0 mA to 876.0 mA
+05:48:28 The module CL3DX changed from 138.38 mA to 138.38 mA
+05:48:28 The module CL3DY changed from -134.4348 mA to -134.4348 mA
+05:48:28 The module CL2 changed from 2501.079 mA to 2501.079 mA
+05:48:28 The module CL2DX changed from -13.31993 mA to -13.31993 mA
+05:48:28 The module CL2DY changed from 57.46403 mA to 57.46403 mA
+05:48:28 The module CL1 changed from 892.0 mA to 892.0 mA
+05:48:28 The module MOBJ changed from 1627.155 mA to 1627.155 mA
+05:48:28 The module OSTIGA changed from -35.99526 mA to -35.99526 mA
+05:48:28 The module OSTIGB changed from 42.00241 mA to 42.00241 mA
+05:48:28 The module TL changed from 683.1323 mA to 683.1323 mA
+05:48:28 The module DSTIGA changed from -26.69139 mA to -26.69139 mA
+05:48:28 The module DSTIGB changed from 35.07447 mA to 35.07447 mA
+05:48:28 The module FLDX changed from -1.82 mA to -1.82 mA
+05:48:28 The module FLDY changed from -32.5656 mA to -32.5656 mA
+05:48:28 The module FL changed from 1692.0 mA to 1692.0 mA
+05:48:28 The module ILDX changed from -23.31 mA to -23.31 mA
+05:48:28 The module IL changed from 1286.0 mA to 1286.0 mA
+05:48:28 The module P1DX changed from 31.0084 mA to 31.0084 mA
+05:48:28 The module P1DY changed from 52.91543 mA to 52.91543 mA
+05:48:28 The module P1 changed from 1500.0 mA to 1500.0 mA
+05:48:28 The module P2AX changed from -26.85268 mA to -26.85268 mA
+05:48:28 The module P2AY changed from 44.67548 mA to 44.67548 mA
+05:48:28 The module P2 changed from 4100.0 mA to 4100.0 mA
+05:48:28 The module SELO changed from 600.8818 mA to 600.8818 mA
+05:48:28 The module SELI changed from 285.1202 mA to 285.1202 mA
+05:48:28 The module OBJDX changed from 1.731806 mA to 1.731806 mA
+05:48:28 The module OBJDY changed from -4.334632 mA to -4.334632 mA
+05:48:28 The module STV changed from 0.01001091 mA to 0.01001091 mA
+05:48:28 The module ILDY changed from -1.449999 mA to -1.449999 mA
+05:48:29 The module FLDY changed from -32.5656 mA to 33.0656 mA
+05:48:29 The module CL2 changed from 2501.079 mA to -2500.079 mA
+05:52:25 LEEM RESET ----------
+05:52:25 The module ISTIGA changed from 6.64013 mA to 6.64013 mA
+05:52:25 The module ISTIGB changed from -78.27237 mA to -78.27237 mA
+05:52:25 The module ILUDX changed from -11.84349 mA to -11.84349 mA
+05:52:25 The module ILUDY changed from -8.223849 mA to -8.223849 mA
+05:52:25 The module CL3 changed from 876.0 mA to 876.0 mA
+05:52:25 The module CL3DX changed from 138.38 mA to 138.38 mA
+05:52:25 The module CL3DY changed from -134.4348 mA to -134.4348 mA
+05:52:25 The module CL2 changed from 2501.079 mA to 2501.079 mA
+05:52:25 The module CL2DX changed from -13.31993 mA to -13.31993 mA
+05:52:25 The module CL2DY changed from 57.46403 mA to 57.46403 mA
+05:52:25 The module CL1 changed from 892.0 mA to 892.0 mA
+05:52:25 The module MOBJ changed from 1654.055 mA to 1654.055 mA
+05:52:25 The module OSTIGA changed from -35.99526 mA to -35.99526 mA
+05:52:25 The module OSTIGB changed from 42.00241 mA to 42.00241 mA
+05:52:25 The module TL changed from 683.1323 mA to 683.1323 mA
+05:52:25 The module DSTIGA changed from -26.69139 mA to -26.69139 mA
+05:52:25 The module DSTIGB changed from 35.07447 mA to 35.07447 mA
+05:52:25 The module FLDX changed from -1.82 mA to -1.82 mA
+05:52:25 The module FLDY changed from 33.0656 mA to 33.0656 mA
+05:52:25 The module FL changed from 1692.0 mA to 1692.0 mA
+05:52:25 The module ILDX changed from -23.31 mA to -23.31 mA
+05:52:25 The module IL changed from 1286.0 mA to 1286.0 mA
+05:52:25 The module P1DX changed from 31.0084 mA to 31.0084 mA
+05:52:25 The module P1DY changed from 52.91543 mA to 52.91543 mA
+05:52:25 The module P1 changed from 1500.0 mA to 1500.0 mA
+05:52:25 The module P2AX changed from -26.85268 mA to -26.85268 mA
+05:52:25 The module P2AY changed from 44.67548 mA to 44.67548 mA
+05:52:25 The module P2 changed from 4100.0 mA to 4100.0 mA
+05:52:25 The module SELO changed from 600.8823 mA to 600.8823 mA
+05:52:25 The module SELI changed from 285.1202 mA to 285.1202 mA
+05:52:25 The module OBJDX changed from 1.731806 mA to 1.731806 mA
+05:52:25 The module OBJDY changed from -4.334632 mA to -4.334632 mA
+05:52:25 The module STV changed from 0.01001091 mA to 0.01001091 mA
+05:52:25 The module ILDY changed from -1.449999 mA to -1.449999 mA
+05:52:25 The module OSTIGB changed from 42.00241 mA to 38.00241 mA
+05:52:26 The module ISTIGB changed from -78.27237 mA to -78.77237 mA
+05:52:26 The module CL2 changed from 2501.079 mA to 2502.079 mA
+05:52:26 The module FLDX changed from -1.82 mA to -1.62 mA
+05:52:27 The module P1DX changed from 31.0084 mA to 30.5084 mA
+05:52:27 The module SELO changed from 600.8823 mA to 600.8823 mA
+05:52:28 The module P2AY changed from 44.67548 mA to 44.17548 mA
+05:52:28 The module ISTIGB changed from -78.77237 mA to -78.27237 mA
+05:52:29 The module P1DY changed from 52.91543 mA to 52.41543 mA
+05:52:29 The module ILUDY changed from -8.223849 mA to -7.7238489999999995 mA
+05:52:30 The module SELO changed from 600.8823 mA to 600.8823 mA
+05:52:30 The module CL2DY changed from 57.46403 mA to 56.96403 mA
+05:52:30 The module CL3 changed from 876.0 mA to 875.0 mA
+05:52:31 The module CL2 changed from 2502.079 mA to 2501.079 mA
+05:52:31 The module P2AX changed from -26.85268 mA to -27.35268 mA
+05:52:32 The module CL2 changed from 2501.079 mA to 2502.079 mA
+05:52:32 The module P2AX changed from -27.35268 mA to -26.85268 mA
+05:52:33 The module CL1 changed from 892.0 mA to 893.0 mA
+05:52:33 The module FLDY changed from 33.0656 mA to 33.5656 mA
+05:52:34 The module CL2 changed from 2502.079 mA to 2501.079 mA
+05:52:34 The module OBJDX changed from 1.731806 mA to 1.931806 mA
+05:52:34 The module CL2DY changed from 56.96403 mA to 56.46403 mA
+05:52:35 The module CL3DY changed from -134.4348 mA to -133.9348 mA
+05:52:35 The module OSTIGA changed from -35.99526 mA to -31.995260000000002 mA
+05:52:36 The module ILDY changed from -1.449999 mA to -0.949999 mA
+05:52:36 The module P1DY changed from 52.41543 mA to 52.91543 mA
+05:52:37 The module TL changed from 683.1323 mA to 684.1323 mA
+05:52:37 The module CL2DX changed from -13.31993 mA to -12.81993 mA
+05:52:38 The module CL3DY changed from -133.9348 mA to -133.4348 mA
+05:52:38 The module ILUDY changed from -7.723849 mA to -7.223849 mA
+05:52:38 The module ILUDY changed from -7.223849 mA to -6.723849 mA
+05:52:39 The module ILDX changed from -23.31 mA to -22.81 mA
+05:52:39 The module OSTIGB changed from 38.00241 mA to 42.00241 mA
+05:52:40 The module P2AX changed from -26.85268 mA to -27.35268 mA
+05:52:40 The module IL changed from 1286.0 mA to 1285.0 mA
+05:52:41 The module P2AY changed from 44.17548 mA to 44.67548 mA
+05:52:41 The module FLDY changed from 33.5656 mA to 34.0656 mA
+05:52:42 The module P1DY changed from 52.91543 mA to 53.41543 mA
+05:52:42 The module ILUDX changed from -11.84349 mA to -11.34349 mA
+05:52:42 The module OBJDY changed from -4.334632 mA to -4.534632 mA
+05:52:43 The module DSTIGB changed from 35.07447 mA to 35.57447 mA
+05:52:43 The module ILDX changed from -22.81 mA to -23.31 mA
+05:52:44 The module ILDX changed from -23.31 mA to -23.81 mA
+05:52:44 The module OSTIGA changed from -31.99526 mA to -35.99526 mA
+05:52:45 The module DSTIGA changed from -26.69139 mA to -26.19139 mA
+05:52:45 The module P1 changed from 1500.0 mA to 1501.0 mA
+05:52:46 The module P1DY changed from 53.41543 mA to 53.91543 mA
+05:52:46 The module ILDY changed from -0.949999 mA to -0.44999900000000004 mA
+05:52:46 The module ILDX changed from -23.81 mA to -24.31 mA
+05:52:47 The module P1DX changed from 30.5084 mA to 30.0084 mA
+05:52:47 The module OBJDY changed from -4.534632 mA to -4.334632 mA
+05:52:48 The module IL changed from 1285.0 mA to 1284.0 mA
+05:52:48 The module ISTIGA changed from 6.64013 mA to 6.14013 mA
+05:52:49 The module CL2DX changed from -12.81993 mA to -13.31993 mA
+05:52:49 The module P2 changed from 4100.0 mA to 4099.0 mA
+05:52:50 The module IL changed from 1284.0 mA to 1283.0 mA
+05:52:50 The module ISTIGA changed from 6.14013 mA to 5.64013 mA
+05:52:50 The module P1 changed from 1501.0 mA to 1502.0 mA
+05:52:51 The module ISTIGA changed from 5.64013 mA to 6.14013 mA
+05:52:51 The module IL changed from 1283.0 mA to 1282.0 mA
+05:52:52 The module SELI changed from 285.1205 mA to 285.1105 mA
+05:52:52 The module SELI changed from 285.1105 mA to 285.1005 mA
+05:52:53 The module OBJDY changed from -4.334632 mA to -4.134632 mA
+05:52:53 The module OSTIGB changed from 42.00241 mA to 38.00241 mA
+05:52:54 The module ILDX changed from -24.31 mA to -24.81 mA
+05:52:54 The module OSTIGA changed from -35.99526 mA to -31.995260000000002 mA
+05:52:54 The module CL1 changed from 893.0 mA to 892.0 mA
+05:52:55 The module ILUDY changed from -6.723849 mA to -6.223849 mA
+05:52:55 The module CL2DY changed from 56.46403 mA to 56.96403 mA
+05:52:56 The module CL3DY changed from -133.4348 mA to -132.9348 mA
+05:52:56 The module P2AY changed from 44.67548 mA to 45.17548 mA
+05:52:57 The module ISTIGB changed from -78.27237 mA to -77.77237 mA
+05:52:57 The module CL1 changed from 892.0 mA to 891.0 mA
+05:52:58 The module FLDX changed from -1.62 mA to -1.82 mA
+05:52:58 The module SELI changed from 285.1005 mA to 285.1105 mA
+05:52:59 The module FLDX changed from -1.82 mA to -1.62 mA
+05:52:59 The module CL1 changed from 891.0 mA to 890.0 mA
+05:52:59 The module OBJDY changed from -4.134632 mA to -3.9346319999999997 mA
+05:53:00 The module STV changed from 0.01001091 mA to -0.08998909000000001 mA
+05:53:00 The module FLDX changed from -1.62 mA to -1.4200000000000002 mA
+05:53:01 The module FL changed from 1692.0 mA to 1691.0 mA
+05:53:01 The module OSTIGA changed from -31.99526 mA to -35.99526 mA
+05:53:02 The module CL2 changed from 2501.079 mA to 2500.079 mA
+05:53:02 The module CL1 changed from 890.0 mA to 889.0 mA
+05:53:03 The module SELO changed from 600.8618 mA to 600.8618 mA
+05:53:03 The module P2AY changed from 45.17548 mA to 44.67548 mA
+05:53:03 The module SELO changed from 600.8618 mA to 600.8618 mA
+05:53:04 The module ISTIGB changed from -77.77237 mA to -78.27237 mA
+05:53:04 The module CL2DX changed from -13.31993 mA to -13.81993 mA
+05:53:05 The module ILUDY changed from -6.223849 mA to -5.723849 mA
+05:53:05 The module FLDX changed from -1.42 mA to -1.22 mA
+05:53:06 The module ISTIGB changed from -78.27237 mA to -77.77237 mA
+05:53:06 The module CL3DY changed from -132.9348 mA to -132.4348 mA
+05:53:07 The module SELO changed from 600.8618 mA to 600.8618 mA
+05:53:07 The module P2 changed from 4099.0 mA to 4100.0 mA
+05:53:07 The module ILUDY changed from -5.723849 mA to -6.223849 mA
+05:53:08 The module FLDX changed from -1.22 mA to -1.42 mA
+05:53:08 The module STV changed from -0.08998909 mA to 0.010010910000000012 mA
+05:53:09 The module OBJDX changed from 1.931806 mA to 1.731806 mA
+05:53:09 The module OBJDY changed from -3.934632 mA to -4.134632 mA
+05:53:10 The module OSTIGB changed from 38.00241 mA to 42.00241 mA
+05:53:10 The module P2 changed from 4100.0 mA to 4101.0 mA
+05:53:11 The module TL changed from 684.1323 mA to 685.1323 mA
+05:53:11 The module OSTIGB changed from 42.00241 mA to 46.00241 mA
+05:53:11 The module P2AY changed from 44.67548 mA to 45.17548 mA
+05:53:12 The module ILDX changed from -24.81 mA to -24.31 mA
+05:53:12 The module SELI changed from 285.1107 mA to 285.1207 mA
+05:53:13 The module CL2 changed from 2500.079 mA to 2501.079 mA
+05:53:13 The module P1 changed from 1502.0 mA to 1503.0 mA
+05:53:14 The module SELI changed from 285.1207 mA to 285.1307 mA
+05:53:14 The module DSTIGA changed from -26.19139 mA to -25.69139 mA
+05:53:15 The module P2AY changed from 45.17548 mA to 45.67548 mA
+05:53:15 The module DSTIGB changed from 35.57447 mA to 36.07447 mA
+05:53:15 The module OSTIGA changed from -35.99526 mA to -31.995260000000002 mA
+05:53:16 The module ISTIGB changed from -77.77237 mA to -78.27237 mA
+05:53:16 The module P2AY changed from 45.67548 mA to 46.17548 mA
+05:53:17 The module FLDX changed from -1.42 mA to -1.22 mA
+05:53:17 The module CL3DY changed from -132.4348 mA to -131.9348 mA
+05:53:18 The module IL changed from 1282.0 mA to 1281.0 mA
+05:53:18 The module STV changed from 0.01001091 mA to 0.11001091 mA
+05:53:19 The module CL2DX changed from -13.81993 mA to -14.31993 mA
+05:53:19 The module OBJDY changed from -4.134632 mA to -3.9346319999999997 mA
+05:53:19 The module ISTIGA changed from 6.14013 mA to 5.64013 mA
+05:53:20 The module CL3DX changed from 138.38 mA to 137.88 mA
+05:53:20 The module STV changed from 0.1100109 mA to 0.01001089999999999 mA
+05:53:21 The module OSTIGA changed from -31.99526 mA to -27.99526 mA
+05:53:21 The module SELI changed from 285.1307 mA to 285.1407 mA
+05:53:22 The module FLDY changed from 34.0656 mA to 33.5656 mA
+05:53:22 The module CL1 changed from 889.0 mA to 890.0 mA
+05:53:23 The module CL1 changed from 890.0 mA to 889.0 mA
+05:53:23 The module CL3DY changed from -131.9348 mA to -131.4348 mA
+05:53:23 The module CL3DY changed from -131.4348 mA to -130.9348 mA
+05:53:24 The module P1 changed from 1503.0 mA to 1502.0 mA
+05:53:24 The module TL changed from 685.1323 mA to 684.1323 mA
+05:53:25 The module MOBJ changed from 1654.055 mA to 1656.055 mA
+05:53:25 The module P2AX changed from -27.35268 mA to -27.85268 mA
+05:53:26 The module DSTIGA changed from -25.69139 mA to -25.19139 mA
+05:53:26 The module OSTIGB changed from 46.00241 mA to 42.00241 mA
+05:53:27 The module MOBJ changed from 1656.055 mA to 1654.055 mA
+05:53:27 The module ISTIGB changed from -78.27237 mA to -78.77237 mA
+05:53:28 The module CL3 changed from 875.0 mA to 874.0 mA
+05:53:28 The module P2 changed from 4101.0 mA to 4100.0 mA
+05:53:28 The module CL3DX changed from 137.88 mA to 138.38 mA
+05:53:29 The module DSTIGB changed from 36.07447 mA to 35.57447 mA
+05:53:29 The module CL3DX changed from 138.38 mA to 137.88 mA
+05:53:30 The module OSTIGA changed from -27.99526 mA to -23.99526 mA
+05:53:30 The module P1 changed from 1502.0 mA to 1503.0 mA
+05:53:31 The module SELI changed from 285.1407 mA to 285.1307 mA
+05:53:31 The module P2AX changed from -27.85268 mA to -28.35268 mA
+05:53:31 The module P1DY changed from 53.91543 mA to 54.41543 mA
+05:53:32 The module ISTIGB changed from -78.77237 mA to -78.27237 mA
+05:53:32 The module ILDX changed from -24.31 mA to -23.81 mA
+05:53:33 The module SELO changed from 600.9044 mA to 600.9044 mA
+05:53:33 The module STV changed from 0.0100109 mA to 0.11001090000000001 mA
+05:53:34 The module TL changed from 684.1323 mA to 685.1323 mA
+05:53:34 The module ILUDY changed from -6.223849 mA to -5.723849 mA
+05:53:35 The module CL2DX changed from -14.31993 mA to -14.81993 mA
+05:53:35 The module ISTIGB changed from -78.27237 mA to -77.77237 mA
+05:53:35 The module P1DY changed from 54.41543 mA to 53.91543 mA
+05:53:36 The module MOBJ changed from 1654.055 mA to 1656.055 mA
+05:53:36 The module ISTIGB changed from -77.77237 mA to -78.27237 mA
+05:53:37 The module ILDX changed from -23.81 mA to -24.31 mA
+05:53:37 The module FLDX changed from -1.22 mA to -1.42 mA
+05:53:38 The module SELI changed from 285.131 mA to 285.14099999999996 mA
+05:53:38 The module ISTIGB changed from -78.27237 mA to -77.77237 mA
+05:53:39 The module TL changed from 685.1323 mA to 684.1323 mA
+05:53:39 The module IL changed from 1281.0 mA to 1280.0 mA
+05:53:40 The module OSTIGB changed from 42.00241 mA to 46.00241 mA
+05:53:40 The module CL1 changed from 889.0 mA to 888.0 mA
+05:53:40 The module FLDX changed from -1.42 mA to -1.22 mA
+05:53:41 The module ILUDX changed from -11.34349 mA to -10.84349 mA
+05:53:41 The module IL changed from 1280.0 mA to 1281.0 mA
+05:53:42 The module P2AX changed from -28.35268 mA to -28.85268 mA
+05:53:42 The module CL3DX changed from 137.88 mA to 138.38 mA
+05:53:43 The module CL1 changed from 888.0 mA to 887.0 mA
+05:53:43 The module OSTIGB changed from 46.00241 mA to 50.00241 mA
+05:53:44 The module IL changed from 1281.0 mA to 1282.0 mA
+05:53:44 The module ISTIGA changed from 5.64013 mA to 5.14013 mA
+05:53:44 The module P1 changed from 1503.0 mA to 1504.0 mA
+05:53:45 The module P2AX changed from -28.85268 mA to -28.35268 mA
+05:53:45 The module SELI changed from 285.141 mA to 285.151 mA
+05:53:46 The module FLDX changed from -1.22 mA to -1.42 mA
+05:53:46 The module P2AY changed from 46.17548 mA to 46.67548 mA
+05:53:47 The module ILUDY changed from -5.723849 mA to -6.223849 mA
+05:53:47 The module FLDY changed from 33.5656 mA to 33.0656 mA
+05:53:48 The module CL2 changed from 2501.079 mA to 2502.079 mA
+05:53:48 The module FLDX changed from -1.42 mA to -1.22 mA
+05:53:48 The module ISTIGA changed from 5.14013 mA to 5.64013 mA
+05:53:49 The module OBJDY changed from -3.934632 mA to -3.734632 mA
+05:53:49 The module CL3DY changed from -130.9348 mA to -130.4348 mA
+05:53:50 The module ILDX changed from -24.31 mA to -24.81 mA
+05:53:50 The module ISTIGA changed from 5.64013 mA to 6.14013 mA
+05:53:51 The module P2AY changed from 46.67548 mA to 47.17548 mA
+05:53:51 The module P1DX changed from 30.0084 mA to 30.5084 mA
+05:53:52 The module CL3DY changed from -130.4348 mA to -130.9348 mA
+05:53:52 The module CL2DY changed from 56.96403 mA to 57.46403 mA
+05:53:52 The module P1 changed from 1504.0 mA to 1505.0 mA
+05:53:53 The module CL3DY changed from -130.9348 mA to -130.4348 mA
+05:53:53 The module DSTIGB changed from 35.57447 mA to 36.07447 mA
+05:53:54 The module OBJDY changed from -3.734632 mA to -3.5346319999999998 mA
+05:53:54 The module SELO changed from 600.9472 mA to 600.9472 mA
+05:53:55 The module OSTIGA changed from -23.99526 mA to -27.99526 mA
+05:53:55 The module P1DX changed from 30.5084 mA to 31.0084 mA
+05:53:56 The module ILUDY changed from -6.223849 mA to -6.723849 mA
+05:53:56 The module FLDY changed from 33.0656 mA to 33.5656 mA
+05:53:56 The module ILDY changed from -0.449999 mA to 0.05000100000000002 mA
+05:53:57 The module CL2 changed from 2502.079 mA to 2503.079 mA
+05:53:57 The module CL2 changed from 2503.079 mA to 2504.079 mA
+05:53:58 The module OSTIGA changed from -27.99526 mA to -31.99526 mA
+05:53:58 The module P1DY changed from 53.91543 mA to 54.41543 mA
+05:53:59 The module ILUDX changed from -10.84349 mA to -10.34349 mA
+05:53:59 The module FL changed from 1691.0 mA to 1690.0 mA
+05:54:00 The module ISTIGB changed from -77.77237 mA to -77.27237 mA
+05:54:00 The module CL3 changed from 874.0 mA to 873.0 mA
+05:54:00 The module OSTIGA changed from -31.99526 mA to -35.99526 mA
+05:54:01 The module SELO changed from 600.9472 mA to 600.9472 mA
+05:54:01 The module SELI changed from 285.1512 mA to 285.1412 mA
+05:54:02 The module P1 changed from 1505.0 mA to 1504.0 mA
+05:54:02 The module ILDY changed from 0.050001 mA to 0.550001 mA
+05:54:03 The module STV changed from 0.1100109 mA to 0.2100109 mA
+05:54:03 The module TL changed from 684.1323 mA to 685.1323 mA
+05:54:04 The module ILDX changed from -24.81 mA to -24.31 mA
+05:54:04 The module TL changed from 685.1323 mA to 684.1323 mA
+05:54:05 The module OSTIGA changed from -35.99526 mA to -39.99526 mA
+05:54:05 The module CL2 changed from 2504.079 mA to 2503.079 mA
+05:54:05 The module P2 changed from 4100.0 mA to 4101.0 mA
+05:54:06 The module DSTIGA changed from -25.19139 mA to -24.69139 mA
+05:54:06 The module P1DX changed from 31.0084 mA to 30.5084 mA
+05:54:07 The module FLDY changed from 33.5656 mA to 33.0656 mA
+05:54:07 The module MOBJ changed from 1656.055 mA to 1658.055 mA
+05:54:08 The module OSTIGA changed from -39.99526 mA to -35.99526 mA
+05:54:08 The module P1DY changed from 54.41543 mA to 54.91543 mA
+05:54:09 The module CL2DX changed from -14.81993 mA to -15.31993 mA
+05:54:09 The module ILUDY changed from -6.723849 mA to -6.223849 mA
+05:54:09 The module P1 changed from 1504.0 mA to 1503.0 mA
+05:54:10 The module ILDX changed from -24.31 mA to -24.81 mA
+05:54:10 The module DSTIGA changed from -24.69139 mA to -24.19139 mA
+05:54:11 The module CL3DY changed from -130.4348 mA to -130.9348 mA
+05:54:11 The module P2AY changed from 47.17548 mA to 47.67548 mA
+05:54:12 The module OSTIGB changed from 50.00241 mA to 46.00241 mA
+05:54:12 The module CL2DY changed from 57.46403 mA to 57.96403 mA
+05:54:13 The module P2AY changed from 47.67548 mA to 47.17548 mA
+05:54:13 The module STV changed from 0.2100109 mA to 0.1100109 mA
+05:54:14 The module STV changed from 0.1100109 mA to 0.01001089999999999 mA
+05:54:14 The module CL2DX changed from -15.31993 mA to -15.81993 mA
+05:54:14 The module CL3 changed from 873.0 mA to 874.0 mA
+05:54:15 The module P2 changed from 4101.0 mA to 4102.0 mA
+05:54:15 The module P1DX changed from 30.5084 mA to 30.0084 mA
+05:54:16 The module OSTIGA changed from -35.99526 mA to -39.99526 mA
+05:54:16 The module OBJDY changed from -3.534632 mA to -3.7346320000000004 mA
+05:54:17 The module FLDY changed from 33.0656 mA to 32.5656 mA
+05:54:17 The module P1DX changed from 30.0084 mA to 29.5084 mA
+05:54:17 The module P1 changed from 1503.0 mA to 1502.0 mA
+05:54:18 The module CL1 changed from 887.0 mA to 886.0 mA
+05:54:18 The module IL changed from 1282.0 mA to 1283.0 mA
+05:54:19 The module P2AY changed from 47.17548 mA to 46.67548 mA
+05:54:19 The module ISTIGB changed from -77.27237 mA to -76.77237 mA
+05:54:20 The module ISTIGB changed from -76.77237 mA to -77.27237 mA
+05:54:20 The module FLDX changed from -1.22 mA to -1.02 mA
+05:54:21 The module SELI changed from 285.1412 mA to 285.13120000000004 mA
+05:54:21 The module CL3 changed from 874.0 mA to 875.0 mA
+05:54:21 The module FLDY changed from 32.5656 mA to 32.0656 mA
+05:54:22 The module P2AX changed from -28.35268 mA to -27.85268 mA
+05:54:22 The module MOBJ changed from 1658.055 mA to 1660.055 mA
+05:54:23 The module CL3 changed from 875.0 mA to 876.0 mA
+05:54:23 The module ILDY changed from 0.550001 mA to 1.050001 mA
+05:54:24 The module ILDY changed from 1.050001 mA to 1.550001 mA
+05:54:24 The module MOBJ changed from 1660.055 mA to 1658.055 mA
+05:54:25 The module CL3 changed from 876.0 mA to 877.0 mA
+05:54:25 The module MOBJ changed from 1658.055 mA to 1656.055 mA
+05:54:25 The module P2 changed from 4102.0 mA to 4101.0 mA
+05:54:26 The module SELO changed from 600.9055 mA to 600.9055 mA
+05:54:26 The module ISTIGB changed from -77.27237 mA to -77.77237 mA
+05:54:27 The module ISTIGB changed from -77.77237 mA to -78.27237 mA
+05:54:27 The module OBJDY changed from -3.734632 mA to -3.934632 mA
+05:54:28 The module TL changed from 684.1323 mA to 683.1323 mA
+05:54:28 The module STV changed from 0.0100109 mA to 0.11001090000000001 mA
+05:54:29 The module ISTIGA changed from 6.14013 mA to 5.64013 mA
+05:54:29 The module SELO changed from 600.9055 mA to 600.9055 mA
+05:54:30 The module SELO changed from 600.9055 mA to 600.9055 mA
+05:54:30 The module DSTIGA changed from -24.19139 mA to -23.69139 mA
+05:54:30 The module MOBJ changed from 1656.055 mA to 1658.055 mA
+05:54:31 The module ILUDY changed from -6.223849 mA to -6.723849 mA
+05:54:31 The module CL2DY changed from 57.96403 mA to 58.46403 mA
+05:54:32 The module P1 changed from 1502.0 mA to 1503.0 mA
+05:54:32 The module ILUDY changed from -6.723849 mA to -7.223849 mA
+05:54:33 The module FLDX changed from -1.02 mA to -1.22 mA
+05:54:33 The module DSTIGB changed from 36.07447 mA to 36.57447 mA
+05:54:34 The module P2AX changed from -27.85268 mA to -27.35268 mA
+05:54:34 The module OBJDX changed from 1.731806 mA to 1.531806 mA
+05:54:34 The module CL3 changed from 877.0 mA to 876.0 mA
+05:54:35 The module CL2 changed from 2503.079 mA to 2504.079 mA
+05:54:35 The module ILUDX changed from -10.34349 mA to -9.84349 mA
+05:54:36 The module CL1 changed from 886.0 mA to 887.0 mA
+05:54:36 The module OBJDY changed from -3.934632 mA to -4.134632 mA
+05:54:37 The module P1 changed from 1503.0 mA to 1502.0 mA
+05:54:37 The module TL changed from 683.1323 mA to 682.1323 mA
+05:54:38 The module ILUDX changed from -9.84349 mA to -10.34349 mA
+05:54:38 The module P2AY changed from 46.67548 mA to 46.17548 mA
+05:54:38 The module TL changed from 682.1323 mA to 683.1323 mA
+05:54:39 The module MOBJ changed from 1658.055 mA to 1660.055 mA
+05:54:39 The module FL changed from 1690.0 mA to 1691.0 mA
+05:54:40 The module ILUDY changed from -7.223849 mA to -6.723849 mA
+05:54:40 The module FL changed from 1691.0 mA to 1692.0 mA
+05:54:41 The module P1DY changed from 54.91543 mA to 55.41543 mA
+05:54:41 The module OSTIGB changed from 46.00241 mA to 50.00241 mA
+05:54:42 The module TL changed from 683.1323 mA to 684.1323 mA
+05:54:42 The module STV changed from 0.1100109 mA to 0.01001089999999999 mA
+05:54:42 The module IL changed from 1283.0 mA to 1282.0 mA
+05:54:43 The module FL changed from 1692.0 mA to 1691.0 mA
+05:54:43 The module CL3DX changed from 138.38 mA to 137.88 mA
+05:54:44 The module ILUDY changed from -6.723849 mA to -7.223849 mA
+05:54:44 The module P1DX changed from 29.5084 mA to 29.0084 mA
+05:54:45 The module ISTIGB changed from -78.27237 mA to -78.77237 mA
+05:54:45 The module P2AX changed from -27.35268 mA to -27.85268 mA
+05:54:46 The module CL1 changed from 887.0 mA to 886.0 mA
+05:54:46 The module CL3DY changed from -130.9348 mA to -131.4348 mA
+05:54:46 The module CL2DY changed from 58.46403 mA to 57.96403 mA
+05:54:47 The module CL2 changed from 2504.079 mA to 2503.079 mA
+05:54:47 The module TL changed from 684.1323 mA to 683.1323 mA
+05:54:48 The module OSTIGB changed from 50.00241 mA to 54.00241 mA
+05:54:48 The module ISTIGA changed from 5.64013 mA to 5.14013 mA
+05:54:49 The module ISTIGB changed from -78.77237 mA to -78.27237 mA
+05:54:49 The module P1DX changed from 29.0084 mA to 28.5084 mA
+05:54:50 The module DSTIGB changed from 36.57447 mA to 37.07447 mA
+05:54:50 The module CL3DX changed from 137.88 mA to 137.38 mA
+05:54:50 The module ILUDX changed from -10.34349 mA to -10.84349 mA
+05:54:51 The module MOBJ changed from 1660.055 mA to 1662.055 mA
+05:54:51 The module IL changed from 1282.0 mA to 1283.0 mA
+05:54:52 The module TL changed from 683.1323 mA to 682.1323 mA
+05:54:52 The module DSTIGB changed from 37.07447 mA to 36.57447 mA
+05:54:53 The module P2AX changed from -27.85268 mA to -27.35268 mA
+05:54:53 The module P1DX changed from 28.5084 mA to 28.0084 mA
+05:54:54 The module ILDX changed from -24.81 mA to -25.31 mA
+05:54:54 The module FLDX changed from -1.22 mA to -1.02 mA
+05:54:55 The module DSTIGB changed from 36.57447 mA to 36.07447 mA
+05:54:55 The module P1 changed from 1502.0 mA to 1503.0 mA
+05:54:55 The module STV changed from 0.0100109 mA to -0.0899891 mA
+05:54:56 The module P1DX changed from 28.0084 mA to 27.5084 mA
+05:54:56 The module ILUDY changed from -7.223849 mA to -6.723849 mA
+05:54:57 The module CL2DY changed from 57.96403 mA to 58.46403 mA
+05:54:57 The module ISTIGB changed from -78.27237 mA to -78.77237 mA
+05:54:58 The module CL1 changed from 886.0 mA to 887.0 mA
+05:54:58 The module P2 changed from 4101.0 mA to 4102.0 mA
+05:54:58 The module P1DX changed from 27.5084 mA to 27.0084 mA
+05:54:59 The module CL2DX changed from -15.81993 mA to -15.31993 mA
+05:54:59 The module TL changed from 682.1323 mA to 683.1323 mA
+05:55:00 The module P1DY changed from 55.41543 mA to 55.91543 mA
+05:55:00 The module P1 changed from 1503.0 mA to 1504.0 mA
+05:55:01 The module FLDY changed from 32.0656 mA to 31.565600000000003 mA
+05:55:01 The module OBJDY changed from -4.134632 mA to -4.334632 mA
+05:55:02 The module OSTIGA changed from -39.99526 mA to -35.99526 mA
+05:55:02 The module CL2 changed from 2503.079 mA to 2502.079 mA
+05:55:03 The module OSTIGB changed from 54.00241 mA to 58.00241 mA
+05:55:03 The module ISTIGA changed from 5.14013 mA to 4.64013 mA
+05:55:03 The module P1DY changed from 55.91543 mA to 56.41543 mA
+05:55:04 The module SELI changed from 285.1315 mA to 285.1415 mA
+05:55:04 The module P1 changed from 1504.0 mA to 1503.0 mA
+05:55:05 The module MOBJ changed from 1662.055 mA to 1660.055 mA
+05:55:05 The module CL3DY changed from -131.4348 mA to -131.9348 mA
+05:55:06 The module ILDX changed from -25.31 mA to -25.81 mA
+05:55:06 The module MOBJ changed from 1660.055 mA to 1662.055 mA
+05:55:07 The module CL3DX changed from 137.38 mA to 137.88 mA
+05:55:07 The module P1DX changed from 27.0084 mA to 27.5084 mA
+05:55:07 The module P2AY changed from 46.17548 mA to 46.67548 mA
+05:55:08 The module OBJDX changed from 1.531806 mA to 1.731806 mA
+05:55:08 The module IL changed from 1283.0 mA to 1284.0 mA
+05:55:09 The module CL3 changed from 876.0 mA to 877.0 mA
+05:55:09 The module CL2 changed from 2502.079 mA to 2501.079 mA
+05:55:10 The module SELI changed from 285.1415 mA to 285.1315 mA
+05:55:10 The module ILDX changed from -25.81 mA to -26.31 mA
+05:55:11 The module FL changed from 1691.0 mA to 1692.0 mA
+05:55:11 The module OSTIGA changed from -35.99526 mA to -39.99526 mA
+05:55:11 The module P1DX changed from 27.5084 mA to 28.0084 mA
+05:55:12 The module CL3DX changed from 137.88 mA to 137.38 mA
+05:55:12 The module ILDX changed from -26.31 mA to -25.81 mA
+05:55:13 The module MOBJ changed from 1662.055 mA to 1660.055 mA
+05:56:18 LEEM RESET ----------
+05:56:18 The module ISTIGA changed from 4.64013 mA to 4.64013 mA
+05:56:18 The module ISTIGB changed from -78.77237 mA to -78.77237 mA
+05:56:18 The module ILUDX changed from -10.84349 mA to -10.84349 mA
+05:56:18 The module ILUDY changed from -6.723849 mA to -6.723849 mA
+05:56:18 The module CL3 changed from 877.0 mA to 877.0 mA
+05:56:18 The module CL3DX changed from 137.38 mA to 137.38 mA
+05:56:18 The module CL3DY changed from -131.9348 mA to -131.9348 mA
+05:56:18 The module CL2 changed from 2501.079 mA to 2501.079 mA
+05:56:18 The module CL2DX changed from -15.31993 mA to -15.31993 mA
+05:56:18 The module CL2DY changed from 58.46403 mA to 58.46403 mA
+05:56:18 The module CL1 changed from 887.0 mA to 887.0 mA
+05:56:18 The module MOBJ changed from 1660.055 mA to 1660.055 mA
+05:56:18 The module OSTIGA changed from -39.99526 mA to -39.99526 mA
+05:56:18 The module OSTIGB changed from 58.00241 mA to 58.00241 mA
+05:56:18 The module TL changed from 683.1323 mA to 683.1323 mA
+05:56:18 The module DSTIGA changed from -23.69139 mA to -23.69139 mA
+05:56:18 The module DSTIGB changed from 36.07447 mA to 36.07447 mA
+05:56:18 The module FLDX changed from -1.02 mA to -1.02 mA
+05:56:18 The module FLDY changed from 31.5656 mA to 31.5656 mA
+05:56:18 The module FL changed from 1692.0 mA to 1692.0 mA
+05:56:18 The module ILDX changed from -25.81 mA to -25.81 mA
+05:56:18 The module IL changed from 1284.0 mA to 1284.0 mA
+05:56:18 The module P1DX changed from 28.0084 mA to 28.0084 mA
+05:56:18 The module P1DY changed from 56.41543 mA to 56.41543 mA
+05:56:18 The module P1 changed from 1503.0 mA to 1503.0 mA
+05:56:18 The module P2AX changed from -27.35268 mA to -27.35268 mA
+05:56:18 The module P2AY changed from 46.67548 mA to 46.67548 mA
+05:56:18 The module P2 changed from 4102.0 mA to 4102.0 mA
+05:56:18 The module SELO changed from 600.9061 mA to 600.9061 mA
+05:56:18 The module SELI changed from 285.1315 mA to 285.1315 mA
+05:56:18 The module OBJDX changed from 1.731806 mA to 1.731806 mA
+05:56:18 The module OBJDY changed from -4.334632 mA to -4.334632 mA
+05:56:18 The module STV changed from -0.0899891 mA to -0.0899891 mA
+05:56:18 The module ILDY changed from 1.550001 mA to 1.550001 mA
+05:56:18 The module P1DY changed from 56.41543 mA to 56.91543 mA
+05:56:19 Reward: [[0.09307251]]
+05:56:19 The module P1 changed from 1503.0 mA to 1502.0 mA
+05:56:19 Reward: [[0.09283637]]
+05:56:19 The module CL2DY changed from 58.46403 mA to 57.96403 mA
+05:56:20 Reward: [[0.09266323]]
+05:56:20 The module ILDX changed from -25.81 mA to -25.31 mA
+05:56:20 Reward: [[0.09267913]]
+05:56:20 The module FL changed from 1692.0 mA to 1691.0 mA
+05:56:20 Reward: [[0.09272685]]
+05:56:21 The module FLDY changed from 31.5656 mA to 32.0656 mA
+05:56:21 Reward: [[0.09271282]]
+05:56:21 The module CL2DY changed from 57.96403 mA to 58.46403 mA
+05:56:21 Reward: [[0.09245916]]
+05:56:22 The module P1 changed from 1502.0 mA to 1501.0 mA
+05:56:22 Reward: [[0.09239493]]
+05:56:22 The module P1DY changed from 56.91543 mA to 57.41543 mA
+05:56:22 Reward: [[0.09244835]]
+05:56:23 The module CL2 changed from 2501.079 mA to 2502.079 mA
+05:56:23 Reward: [[0.09250672]]
+05:56:23 The module CL2 changed from 2502.079 mA to 2501.079 mA
+05:56:23 Reward: [[0.09246859]]
+05:56:23 The module P1DY changed from 57.41543 mA to 56.91543 mA
+05:56:24 Reward: [[0.09257048]]
+05:56:24 The module FLDX changed from -1.02 mA to -1.22 mA
+05:56:24 Reward: [[0.09242089]]
+05:56:24 The module SELI changed from 285.1315 mA to 285.1415 mA
+05:56:24 Reward: [[0.09238641]]
+05:56:25 The module DSTIGA changed from -23.69139 mA to -23.19139 mA
+05:56:25 Reward: [[0.09234485]]
+05:56:25 The module OSTIGA changed from -39.99526 mA to -43.99526 mA
+05:56:25 Reward: [[0.09264625]]
+05:56:26 The module CL2DX changed from -15.31993 mA to -15.81993 mA
+05:56:26 Reward: [[0.09236979]]
+05:56:26 The module OSTIGB changed from 58.00241 mA to 54.00241 mA
+05:56:26 Reward: [[0.09218259]]
+05:56:27 The module IL changed from 1284.0 mA to 1285.0 mA
+05:56:27 Reward: [[0.09203772]]
+05:56:27 The module ISTIGB changed from -78.77237 mA to -79.27237 mA
+05:56:27 Reward: [[0.09218484]]
+05:56:27 The module DSTIGB changed from 36.07447 mA to 36.57447 mA
+05:56:28 Reward: [[0.09231231]]
+05:56:28 The module SELI changed from 285.1415 mA to 285.1515 mA
+05:56:28 Reward: [[0.0922754]]
+05:56:28 The module SELI changed from 285.1515 mA to 285.1415 mA
+05:56:29 Reward: [[0.09229155]]
+05:56:29 The module CL2DX changed from -15.81993 mA to -15.31993 mA
+05:56:29 Reward: [[0.09231518]]
+05:56:29 The module CL3 changed from 877.0 mA to 878.0 mA
+05:56:29 Reward: [[0.09224651]]
+05:56:30 The module OSTIGB changed from 54.00241 mA to 58.00241 mA
+05:56:30 Reward: [[0.0923887]]
+05:56:30 The module P1 changed from 1501.0 mA to 1500.0 mA
+05:56:30 Reward: [[0.09198521]]
+05:56:31 The module ILUDY changed from -6.723849 mA to -6.223849 mA
+05:56:31 Reward: [[0.09190125]]
+05:56:31 The module DSTIGA changed from -23.19139 mA to -22.69139 mA
+05:56:31 Reward: [[0.0919603]]
+05:56:31 The module SELI changed from 285.1415 mA to 285.1315 mA
+05:56:32 Reward: [[0.09213184]]
+05:56:32 The module ILUDX changed from -10.84349 mA to -11.34349 mA
+05:56:32 Reward: [[0.09201123]]
+05:56:32 The module ILUDX changed from -11.34349 mA to -11.84349 mA
+05:56:33 Reward: [[0.09155075]]
+05:56:33 The module P1DX changed from 28.0084 mA to 27.5084 mA
+05:56:33 Reward: [[0.09143251]]
+05:56:33 The module ILDX changed from -25.31 mA to -24.81 mA
+05:56:33 Reward: [[0.0913684]]
+05:56:34 The module P2AY changed from 46.67548 mA to 47.17548 mA
+05:56:34 Reward: [[0.09121976]]
+05:56:34 The module CL2 changed from 2501.079 mA to 2502.079 mA
+05:56:34 Reward: [[0.09119842]]
+05:56:35 The module P1 changed from 1500.0 mA to 1499.0 mA
+05:56:35 Reward: [[0.09141107]]
+05:56:35 The module STV changed from -0.0899891 mA to -0.18998910000000002 mA
+05:56:35 Reward: [[0.09135647]]
+05:56:35 The module P2AX changed from -27.35268 mA to -27.85268 mA
+05:56:36 Reward: [[0.0914406]]
+05:56:36 The module CL2 changed from 2502.079 mA to 2503.079 mA
+05:56:36 Reward: [[0.0914372]]
+05:56:36 The module FLDX changed from -1.22 mA to -1.42 mA
+05:56:37 Reward: [[0.09129034]]
+05:56:37 The module ILUDY changed from -6.223849 mA to -5.723849 mA
+05:56:37 Reward: [[0.09142914]]
+05:56:37 The module SELI changed from 285.1315 mA to 285.1215 mA
+05:56:37 Reward: [[0.09137576]]
+05:56:38 The module CL3DX changed from 137.38 mA to 137.88 mA
+05:56:38 Reward: [[0.09134107]]
+05:56:38 The module CL1 changed from 887.0 mA to 888.0 mA
+05:56:38 Reward: [[0.09147272]]
+05:56:39 The module TL changed from 683.1323 mA to 682.1323 mA
+05:56:39 Reward: [[0.09156311]]
+05:56:39 The module MOBJ changed from 1660.055 mA to 1658.055 mA
+05:56:39 Reward: [[0.09164607]]
+05:56:40 The module CL3DY changed from -131.9348 mA to -132.4348 mA
+05:56:40 Reward: [[0.0914447]]
+05:56:40 The module P2 changed from 4102.0 mA to 4101.0 mA
+05:56:40 Reward: [[0.09136375]]
+05:56:40 The module P1DY changed from 56.91543 mA to 57.41543 mA
+05:56:41 Reward: [[0.09118517]]
+05:56:41 The module OBJDY changed from -4.334632 mA to -4.534632 mA
+05:56:41 Reward: [[0.0912846]]
+05:56:41 The module FL changed from 1691.0 mA to 1692.0 mA
+05:56:41 Reward: [[0.09137378]]
+05:56:42 The module FLDY changed from 32.0656 mA to 31.565600000000003 mA
+05:56:42 Reward: [[0.09140888]]
+05:56:42 The module P2 changed from 4101.0 mA to 4100.0 mA
+05:56:42 Reward: [[0.09122113]]
+05:56:43 The module STV changed from -0.1899891 mA to -0.2899891 mA
+05:56:43 Reward: [[0.09126949]]
+05:56:43 The module ILUDX changed from -11.84349 mA to -12.34349 mA
+05:56:43 Reward: [[0.09136378]]
+05:56:44 The module CL2DY changed from 58.46403 mA to 57.96403 mA
+05:56:44 Reward: [[0.09129565]]
+05:56:44 The module CL2DY changed from 57.96403 mA to 58.46403 mA
+05:56:44 Reward: [[0.09134574]]
+05:56:44 The module CL1 changed from 888.0 mA to 887.0 mA
+05:56:45 Reward: [[0.09131583]]
+05:56:45 The module P1 changed from 1499.0 mA to 1498.0 mA
+05:56:45 Reward: [[0.09129766]]
+05:56:45 The module OSTIGB changed from 58.00241 mA to 54.00241 mA
+05:56:45 Reward: [[0.09134853]]
+05:56:46 The module FL changed from 1692.0 mA to 1693.0 mA
+05:56:46 Reward: [[0.09121468]]
+05:56:46 The module CL3 changed from 878.0 mA to 879.0 mA
+05:56:46 Reward: [[0.09114945]]
+05:56:47 The module P1 changed from 1498.0 mA to 1497.0 mA
+05:56:47 Reward: [[0.09141018]]
+05:56:47 The module ILUDY changed from -5.723849 mA to -6.223849 mA
+05:56:47 Reward: [[0.09125239]]
+05:56:48 The module FLDX changed from -1.42 mA to -1.6199999999999999 mA
+05:56:48 Reward: [[0.09122493]]
+05:56:48 The module FLDY changed from 31.5656 mA to 32.0656 mA
+05:56:48 Reward: [[0.09119788]]
+05:56:49 The module MOBJ changed from 1658.055 mA to 1660.055 mA
+05:56:49 Reward: [[0.09111609]]
+05:56:49 The module TL changed from 682.1323 mA to 681.1323 mA
+05:56:49 Reward: [[0.09104876]]
+05:56:49 The module ILDY changed from 1.550001 mA to 2.050001 mA
+05:56:50 Reward: [[0.09125506]]
+05:56:50 The module ILDY changed from 2.050001 mA to 2.550001 mA
+05:56:50 Reward: [[0.09140645]]
+05:56:50 The module CL2DY changed from 58.46403 mA to 58.96403 mA
+05:56:50 Reward: [[0.09157897]]
+05:56:51 The module P2AX changed from -27.85268 mA to -28.35268 mA
+05:56:51 Reward: [[0.09146087]]
+05:56:51 The module ILDY changed from 2.550001 mA to 3.050001 mA
+05:56:51 Reward: [[0.09141762]]
+05:56:52 The module CL3DX changed from 137.88 mA to 137.38 mA
+05:56:52 Reward: [[0.09132407]]
+05:56:52 The module CL2DX changed from -15.31993 mA to -15.81993 mA
+05:56:52 Reward: [[0.09136285]]
+05:56:53 The module OBJDX changed from 1.731806 mA to 1.931806 mA
+05:56:53 Reward: [[0.09135755]]
+05:56:53 The module P2AX changed from -28.35268 mA to -28.85268 mA
+05:56:53 Reward: [[0.09126222]]
+05:56:53 The module TL changed from 681.1323 mA to 680.1323 mA
+05:56:54 Reward: [[0.09124002]]
+05:56:54 The module IL changed from 1285.0 mA to 1284.0 mA
+05:56:54 Reward: [[0.091267]]
+05:56:54 The module DSTIGA changed from -22.69139 mA to -22.19139 mA
+05:56:54 Reward: [[0.09137162]]
+05:56:55 The module FLDX changed from -1.62 mA to -1.82 mA
+05:56:55 Reward: [[0.09157843]]
+05:56:55 The module CL2DY changed from 58.96403 mA to 59.46403 mA
+05:56:55 Reward: [[0.09167051]]
+05:56:56 The module P2AX changed from -28.85268 mA to -29.35268 mA
+05:56:56 Reward: [[0.09170785]]
+05:56:56 The module CL2DX changed from -15.81993 mA to -15.31993 mA
+05:56:56 Reward: [[0.09152325]]
+05:56:57 The module CL3DX changed from 137.38 mA to 136.88 mA
+05:56:57 Reward: [[0.09156779]]
+05:56:57 The module P1DX changed from 27.5084 mA to 27.0084 mA
+05:56:57 Reward: [[0.09173217]]
+05:56:57 The module P2AY changed from 47.17548 mA to 46.67548 mA
+05:56:58 Reward: [[0.09192516]]
+05:56:58 The module DSTIGB changed from 36.57447 mA to 36.07447 mA
+05:56:58 Reward: [[0.09188057]]
+05:56:58 The module ILUDX changed from -12.34349 mA to -12.84349 mA
+05:56:58 Reward: [[0.09189601]]
+05:56:59 The module CL2DY changed from 59.46403 mA to 58.96403 mA
+05:56:59 Reward: [[0.09179792]]
+05:56:59 The module OBJDX changed from 1.931806 mA to 1.731806 mA
+05:56:59 Reward: [[0.09173917]]
+05:57:00 The module CL3 changed from 879.0 mA to 880.0 mA
+05:57:00 Reward: [[0.0916713]]
+05:57:00 The module SELO changed from 600.885 mA to 600.885 mA
+05:57:00 Reward: [[0.09170111]]
+05:57:01 The module FL changed from 1693.0 mA to 1694.0 mA
+05:57:01 Reward: [[0.09152744]]
+05:57:01 The module P2 changed from 4100.0 mA to 4101.0 mA
+05:57:01 Reward: [[0.09148258]]
+05:57:01 The module FLDX changed from -1.82 mA to -2.02 mA
+05:57:02 Reward: [[0.09158666]]
+05:57:02 The module OBJDY changed from -4.534632 mA to -4.334632 mA
+05:57:02 Reward: [[0.09157844]]
+05:57:02 The module OBJDX changed from 1.731806 mA to 1.931806 mA
+05:57:02 Reward: [[0.0914432]]
+05:57:03 The module OSTIGA changed from -43.99526 mA to -47.99526 mA
+05:57:03 Reward: [[0.09143878]]
+05:57:03 The module FLDY changed from 32.0656 mA to 31.565600000000003 mA
+05:57:03 Reward: [[0.09123827]]
+05:57:04 The module FLDX changed from -2.02 mA to -1.82 mA
+05:57:04 Reward: [[0.09127635]]
+05:57:04 The module P2 changed from 4101.0 mA to 4102.0 mA
+05:57:04 Reward: [[0.09136556]]
+05:57:05 The module FLDX changed from -1.82 mA to -2.02 mA
+05:57:05 Reward: [[0.09153687]]
+05:57:05 The module FLDY changed from 31.5656 mA to 32.0656 mA
+05:57:05 Reward: [[0.09141344]]
+05:57:05 The module MOBJ changed from 1660.055 mA to 1658.055 mA
+05:57:06 Reward: [[0.0914267]]
+05:57:06 The module CL1 changed from 887.0 mA to 888.0 mA
+05:57:06 Reward: [[0.09119132]]
+05:57:06 The module CL1 changed from 888.0 mA to 889.0 mA
+05:57:06 Reward: [[0.09131487]]
+05:57:07 The module SELO changed from 600.885 mA to 600.885 mA
+05:57:07 Reward: [[0.09113867]]
+05:57:07 The module ILDY changed from 3.050001 mA to 3.550001 mA
+05:57:07 Reward: [[0.0911462]]
+05:57:08 The module CL2DY changed from 58.96403 mA to 58.46403 mA
+05:57:08 Reward: [[0.09112555]]
+05:57:08 The module ILDX changed from -24.81 mA to -24.31 mA
+05:57:08 Reward: [[0.09112835]]
+05:57:09 The module IL changed from 1284.0 mA to 1285.0 mA
+05:57:09 Reward: [[0.09113881]]
+05:57:09 The module OSTIGB changed from 54.00241 mA to 58.00241 mA
+05:57:09 Reward: [[0.09128443]]
+05:57:10 The module SELO changed from 600.885 mA to 600.885 mA
+05:57:10 Reward: [[0.09109506]]
+05:57:10 The module CL3DY changed from -132.4348 mA to -132.9348 mA
+05:57:10 Reward: [[0.09126543]]
+05:57:10 The module SELO changed from 600.885 mA to 600.885 mA
+05:57:11 Reward: [[0.09118361]]
+05:57:11 The module OBJDY changed from -4.334632 mA to -4.134632 mA
+05:57:11 Reward: [[0.09116179]]
+05:57:11 The module ISTIGB changed from -79.27237 mA to -79.77237 mA
+05:57:11 Reward: [[0.09098291]]
+05:57:12 The module ISTIGA changed from 4.64013 mA to 5.14013 mA
+05:57:12 Reward: [[0.09095562]]
+05:57:12 The module ILDY changed from 3.550001 mA to 4.050001 mA
+05:57:12 Reward: [[0.09099185]]
+05:57:13 The module P1DX changed from 27.0084 mA to 27.5084 mA
+05:57:13 Reward: [[0.09113792]]
+05:57:13 The module P2 changed from 4102.0 mA to 4103.0 mA
+05:57:13 Reward: [[0.09133365]]
+05:57:13 The module OSTIGA changed from -47.99526 mA to -43.99526 mA
+05:57:14 Reward: [[0.09120529]]
+05:57:14 The module ILUDX changed from -12.84349 mA to -12.34349 mA
+05:57:14 Reward: [[0.09118389]]
+05:57:14 The module SELI changed from 285.1217 mA to 285.13169999999997 mA
+05:57:14 Reward: [[0.09125625]]
+05:57:15 The module CL2DY changed from 58.46403 mA to 58.96403 mA
+05:57:15 Reward: [[0.09130947]]
+05:57:15 The module SELI changed from 285.1317 mA to 285.12170000000003 mA
+05:57:15 Reward: [[0.09137897]]
+05:57:16 The module IL changed from 1285.0 mA to 1286.0 mA
+05:57:16 Reward: [[0.09133736]]
+05:57:16 The module DSTIGA changed from -22.19139 mA to -21.69139 mA
+05:57:16 Reward: [[0.09143662]]
+05:57:17 The module STV changed from -0.2899891 mA to -0.3899891 mA
+05:57:17 Reward: [[0.09132211]]
+05:57:17 The module CL1 changed from 889.0 mA to 888.0 mA
+05:57:17 Reward: [[0.09130934]]
+05:57:17 The module ISTIGB changed from -79.77237 mA to -80.27237 mA
+05:57:18 Reward: [[0.09133239]]
+05:57:18 The module P1 changed from 1497.0 mA to 1498.0 mA
+05:57:18 Reward: [[0.09138171]]
+05:57:18 The module CL2DY changed from 58.96403 mA to 58.46403 mA
+05:57:19 Reward: [[0.09144969]]
+05:57:19 The module ISTIGA changed from 5.14013 mA to 5.64013 mA
+05:57:19 Reward: [[0.09138335]]
+05:57:19 The module ISTIGB changed from -80.27237 mA to -80.77237 mA
+05:57:19 Reward: [[0.09154649]]
+05:57:20 The module OSTIGA changed from -43.99526 mA to -47.99526 mA
+05:57:20 Reward: [[0.09157644]]
+05:57:20 The module P1DX changed from 27.5084 mA to 27.0084 mA
+05:57:20 Reward: [[0.09145775]]
+05:57:21 The module STV changed from -0.3899891 mA to -0.48998909999999996 mA
+05:57:21 Reward: [[0.09142335]]
+05:57:21 The module CL3DY changed from -132.9348 mA to -133.4348 mA
+05:57:21 Reward: [[0.09153581]]
+05:57:21 The module CL1 changed from 888.0 mA to 889.0 mA
+05:57:22 Reward: [[0.09148487]]
+05:57:22 The module FL changed from 1694.0 mA to 1695.0 mA
+05:57:22 Reward: [[0.09155728]]
+05:57:22 The module ILDY changed from 4.050001 mA to 4.550001 mA
+05:57:22 Reward: [[0.09148452]]
+05:57:23 The module P2AX changed from -29.35268 mA to -28.85268 mA
+05:57:23 Reward: [[0.09160987]]
+05:57:23 The module CL3 changed from 880.0 mA to 881.0 mA
+05:57:23 Reward: [[0.09147273]]
+05:57:24 The module SELI changed from 285.1217 mA to 285.1117 mA
+05:57:24 Reward: [[0.09151455]]
+05:57:24 The module FLDY changed from 32.0656 mA to 32.5656 mA
+05:57:24 Reward: [[0.09155076]]
+05:57:25 The module ISTIGB changed from -80.77237 mA to -80.27237 mA
+05:57:25 Reward: [[0.09139755]]
+05:57:25 The module OBJDY changed from -4.134632 mA to -4.334632 mA
+05:57:25 Reward: [[0.09125392]]
+05:57:26 The module OSTIGA changed from -47.99526 mA to -51.99526 mA
+05:57:26 Reward: [[0.09121009]]
+05:57:26 The module FL changed from 1695.0 mA to 1694.0 mA
+05:57:26 Reward: [[0.09097046]]
+05:57:26 The module DSTIGB changed from 36.07447 mA to 35.57447 mA
+05:57:27 Reward: [[0.09093148]]
+05:57:27 The module ISTIGA changed from 5.64013 mA to 5.14013 mA
+05:57:27 Reward: [[0.09093873]]
+05:57:27 The module P1DX changed from 27.0084 mA to 26.5084 mA
+05:57:27 Reward: [[0.09087318]]
+05:57:28 The module SELO changed from 600.8643 mA to 600.8643 mA
+05:57:28 Reward: [[0.09080213]]
+05:57:28 The module ILUDX changed from -12.34349 mA to -12.84349 mA
+05:57:28 Reward: [[0.09097946]]
+05:57:29 The module ILDX changed from -24.31 mA to -23.81 mA
+05:57:29 Reward: [[0.09110805]]
+05:57:29 The module SELI changed from 285.1119 mA to 285.1019 mA
+05:57:29 Reward: [[0.0909949]]
+05:57:30 The module P2AY changed from 46.67548 mA to 47.17548 mA
+05:57:30 Reward: [[0.09119424]]
+05:57:30 The module DSTIGB changed from 35.57447 mA to 35.07447 mA
+05:57:30 Reward: [[0.09106664]]
+05:57:30 The module OSTIGB changed from 58.00241 mA to 62.00241 mA
+05:57:31 Reward: [[0.09087341]]
+05:57:31 The module FLDX changed from -2.02 mA to -1.82 mA
+05:57:31 Reward: [[0.09064107]]
+05:57:31 The module OSTIGA changed from -51.99526 mA to -47.99526 mA
+05:57:31 Reward: [[0.09062405]]
+05:57:32 The module CL2DX changed from -15.31993 mA to -15.81993 mA
+05:57:32 Reward: [[0.09065209]]
+05:57:32 The module CL1 changed from 889.0 mA to 890.0 mA
+05:57:32 Reward: [[0.09072844]]
+05:57:33 The module TL changed from 680.1323 mA to 681.1323 mA
+05:57:33 Reward: [[0.09078072]]
+05:57:33 The module CL3DX changed from 136.88 mA to 137.38 mA
+05:57:33 Reward: [[0.09076339]]
+05:57:34 The module P1 changed from 1498.0 mA to 1499.0 mA
+05:57:34 Reward: [[0.09087295]]
+05:57:34 The module CL3 changed from 881.0 mA to 882.0 mA
+05:57:34 Reward: [[0.090846]]
+05:57:34 The module FLDX changed from -1.82 mA to -1.62 mA
+05:57:35 Reward: [[0.0908911]]
+05:57:35 The module P2 changed from 4103.0 mA to 4104.0 mA
+05:57:35 Reward: [[0.09073134]]
+05:57:35 The module TL changed from 681.1323 mA to 680.1323 mA
+05:57:35 Reward: [[0.09077304]]
+05:57:36 The module DSTIGB changed from 35.07447 mA to 35.57447 mA
+05:57:36 Reward: [[0.09096486]]
+05:57:36 The module P1DX changed from 26.5084 mA to 27.0084 mA
+05:57:36 Reward: [[0.09099663]]
+05:57:37 The module SELI changed from 285.1019 mA to 285.1119 mA
+05:57:37 Reward: [[0.09108283]]
+05:57:37 The module CL2DX changed from -15.81993 mA to -15.31993 mA
+05:57:37 Reward: [[0.09107629]]
+05:57:38 The module OBJDX changed from 1.931806 mA to 2.131806 mA
+05:57:38 Reward: [[0.09111226]]
+05:57:38 The module ILDY changed from 4.550001 mA to 5.050001 mA
+05:57:38 Reward: [[0.09082226]]
+05:57:38 The module OBJDX changed from 2.131806 mA to 1.9318060000000001 mA
+05:57:39 Reward: [[0.09076968]]
+05:57:39 The module STV changed from -0.4899891 mA to -0.5899891 mA
+05:57:39 Reward: [[0.09073956]]
+05:57:39 The module FLDY changed from 32.5656 mA to 33.0656 mA
+05:57:39 Reward: [[0.09074877]]
+05:57:40 The module SELI changed from 285.1119 mA to 285.1019 mA
+05:57:40 Reward: [[0.09065663]]
+05:57:40 The module CL2DX changed from -15.31993 mA to -15.81993 mA
+05:57:40 Reward: [[0.09058158]]
+05:57:41 The module SELI changed from 285.1019 mA to 285.1119 mA
+05:57:41 Reward: [[0.09067641]]
+05:57:41 The module ISTIGA changed from 5.14013 mA to 4.64013 mA
+05:57:41 Reward: [[0.09057111]]
+05:57:42 The module CL2DY changed from 58.46403 mA to 58.96403 mA
+05:57:42 Reward: [[0.0906715]]
+05:57:42 The module ILDY changed from 5.050001 mA to 5.550001 mA
+05:57:42 Reward: [[0.09065643]]
+05:57:42 The module IL changed from 1286.0 mA to 1285.0 mA
+05:57:43 Reward: [[0.09077517]]
+05:57:43 The module P1 changed from 1499.0 mA to 1498.0 mA
+05:57:43 Reward: [[0.09076505]]
+05:57:43 The module ISTIGA changed from 4.64013 mA to 5.14013 mA
+05:57:43 Reward: [[0.09071767]]
+05:57:44 The module MOBJ changed from 1658.055 mA to 1660.055 mA
+05:57:44 Reward: [[0.09086047]]
+05:57:44 The module DSTIGB changed from 35.57447 mA to 36.07447 mA
+05:57:44 Reward: [[0.09069924]]
+05:57:45 The module CL1 changed from 890.0 mA to 891.0 mA
+05:57:45 Reward: [[0.09073254]]
+05:57:45 The module P2AY changed from 47.17548 mA to 47.67548 mA
+05:57:45 Reward: [[0.09074399]]
+05:57:46 The module P1 changed from 1498.0 mA to 1499.0 mA
+05:57:46 Reward: [[0.09054862]]
+05:57:46 The module DSTIGA changed from -21.69139 mA to -21.19139 mA
+05:57:46 Reward: [[0.09059452]]
+05:57:46 The module ISTIGA changed from 5.14013 mA to 4.64013 mA
+05:57:47 Reward: [[0.09051667]]
+05:57:47 The module MOBJ changed from 1660.055 mA to 1662.055 mA
+05:57:47 Reward: [[0.09064041]]
+05:57:47 The module CL3DY changed from -133.4348 mA to -132.9348 mA
+05:57:47 Reward: [[0.09052714]]
+05:57:48 The module CL2DY changed from 58.96403 mA to 58.46403 mA
+05:57:48 Reward: [[0.09048934]]
+05:57:48 The module IL changed from 1285.0 mA to 1284.0 mA
+05:57:48 Reward: [[0.0905438]]
+05:57:49 The module ISTIGA changed from 4.64013 mA to 5.14013 mA
+05:57:49 Reward: [[0.09058681]]
+05:57:49 The module P1DX changed from 27.0084 mA to 26.5084 mA
+05:57:49 Reward: [[0.0905734]]
+05:57:49 The module CL3DY changed from -132.9348 mA to -132.4348 mA
+05:57:50 Reward: [[0.09071783]]
+05:57:50 The module CL3 changed from 882.0 mA to 881.0 mA
+05:57:50 Reward: [[0.09058387]]
+05:57:50 The module CL3DX changed from 137.38 mA to 136.88 mA
+05:57:51 Reward: [[0.09053465]]
+05:57:51 The module SELO changed from 600.8648 mA to 600.8648 mA
+05:57:51 Reward: [[0.09055211]]
+05:57:51 The module P1 changed from 1499.0 mA to 1500.0 mA
+05:57:51 Reward: [[0.09056541]]
+05:57:52 The module P1DX changed from 26.5084 mA to 26.0084 mA
+05:57:52 Reward: [[0.09055106]]
+05:57:52 The module ILDX changed from -23.81 mA to -24.31 mA
+05:57:52 Reward: [[0.0906298]]
+05:57:53 The module SELO changed from 600.8648 mA to 600.8648 mA
+05:57:53 Reward: [[0.09074022]]
+05:57:53 The module ISTIGA changed from 5.14013 mA to 4.64013 mA
+05:57:53 Reward: [[0.09067212]]
+05:57:53 The module TL changed from 680.1323 mA to 679.1323 mA
+05:57:54 Reward: [[0.09066305]]
+05:57:54 The module ISTIGA changed from 4.64013 mA to 5.14013 mA
+05:57:54 Reward: [[0.09073038]]
+05:57:54 The module P2AY changed from 47.67548 mA to 47.17548 mA
+05:57:54 Reward: [[0.09080779]]
+05:57:55 The module CL3DY changed from -132.4348 mA to -131.9348 mA
+05:57:55 Reward: [[0.09073374]]
+05:57:55 The module CL1 changed from 891.0 mA to 892.0 mA
+05:57:55 Reward: [[0.09064715]]
+05:57:56 The module ILDX changed from -24.31 mA to -24.81 mA
+05:57:56 Reward: [[0.09071065]]
+05:57:56 The module TL changed from 679.1323 mA to 680.1323 mA
+05:57:56 Reward: [[0.09058417]]
+05:57:57 The module OSTIGB changed from 62.00241 mA to 58.00241 mA
+05:57:57 Reward: [[0.09063188]]
+05:57:57 The module SELI changed from 285.1122 mA to 285.1022 mA
+05:57:57 Reward: [[0.09050665]]
+05:57:57 The module P1DX changed from 26.0084 mA to 26.5084 mA
+05:57:58 Reward: [[0.0906927]]
+05:57:58 The module STV changed from -0.5899891 mA to -0.48998910000000007 mA
+05:57:58 Reward: [[0.09052407]]
+05:57:58 The module STV changed from -0.4899891 mA to -0.5899891 mA
+05:57:58 Reward: [[0.09050957]]
+05:57:59 The module MOBJ changed from 1662.055 mA to 1660.055 mA
+05:57:59 Reward: [[0.0904568]]
+05:57:59 The module P1DX changed from 26.5084 mA to 26.0084 mA
+05:57:59 Reward: [[0.09040612]]
+05:58:00 The module FLDY changed from 33.0656 mA to 32.5656 mA
+05:58:00 Reward: [[0.09041396]]
+05:58:00 The module CL2DY changed from 58.46403 mA to 58.96403 mA
+05:58:00 Reward: [[0.09036974]]
+05:58:01 The module ILUDY changed from -6.223849 mA to -5.723849 mA
+05:58:01 Reward: [[0.09049534]]
+05:58:01 The module CL3DY changed from -131.9348 mA to -131.4348 mA
+05:58:01 Reward: [[0.09069562]]
+05:58:01 The module MOBJ changed from 1660.055 mA to 1658.055 mA
+05:58:02 Reward: [[0.09074994]]
+05:58:02 The module MOBJ changed from 1658.055 mA to 1656.055 mA
+05:58:02 Reward: [[0.09057561]]
+05:58:02 The module CL1 changed from 892.0 mA to 891.0 mA
+05:58:02 Reward: [[0.09048469]]
+05:58:03 The module P1 changed from 1500.0 mA to 1501.0 mA
+05:58:03 Reward: [[0.09066038]]
+05:58:03 The module OBJDX changed from 1.931806 mA to 2.131806 mA
+05:58:03 Reward: [[0.09067875]]
+05:58:04 The module CL3 changed from 881.0 mA to 880.0 mA
+05:58:04 Reward: [[0.09079032]]
+05:58:04 The module P1DX changed from 26.0084 mA to 26.5084 mA
+05:58:04 Reward: [[0.0908509]]
+05:58:05 The module OSTIGA changed from -47.99526 mA to -51.99526 mA
+05:58:05 Reward: [[0.09072609]]
+05:58:05 The module P1DX changed from 26.5084 mA to 26.0084 mA
+05:58:05 Reward: [[0.09058441]]
+05:58:05 The module OSTIGB changed from 58.00241 mA to 62.00241 mA
+05:58:06 Reward: [[0.09067924]]
+05:58:06 The module CL3DY changed from -131.4348 mA to -130.9348 mA
+05:58:06 Reward: [[0.09056692]]
+05:58:06 The module FLDY changed from 32.5656 mA to 33.0656 mA
+05:58:06 Reward: [[0.0906306]]
+05:58:07 The module CL2 changed from 2503.079 mA to 2502.079 mA
+05:58:07 Reward: [[0.09062421]]
+05:58:07 The module FL changed from 1694.0 mA to 1695.0 mA
+05:58:07 Reward: [[0.09085148]]
+05:58:08 The module ISTIGB changed from -80.27237 mA to -80.77237 mA
+05:58:08 Reward: [[0.09100034]]
+05:58:08 The module MOBJ changed from 1656.055 mA to 1658.055 mA
+05:58:08 Reward: [[0.09086223]]
+05:58:08 The module ISTIGA changed from 5.14013 mA to 5.64013 mA
+05:58:09 Reward: [[0.09062162]]
+05:58:09 The module CL1 changed from 891.0 mA to 890.0 mA
+05:58:09 Reward: [[0.09056419]]
+05:58:09 The module OSTIGA changed from -51.99526 mA to -47.99526 mA
+05:58:09 Reward: [[0.09054672]]
+05:58:10 The module ILUDX changed from -12.84349 mA to -12.34349 mA
+05:58:10 Reward: [[0.09055942]]
+05:58:10 The module CL3DX changed from 136.88 mA to 137.38 mA
+05:58:10 Reward: [[0.09055935]]
+05:58:11 The module DSTIGA changed from -21.19139 mA to -21.69139 mA
+05:58:11 Reward: [[0.09060233]]
+05:58:11 The module DSTIGA changed from -21.69139 mA to -21.19139 mA
+05:58:11 Reward: [[0.09065463]]
+05:58:12 The module P2 changed from 4104.0 mA to 4103.0 mA
+05:58:12 Reward: [[0.09059065]]
+05:58:12 The module SELO changed from 600.8444 mA to 600.8444 mA
+05:58:12 Reward: [[0.09064843]]
+05:58:12 The module SELO changed from 600.8444 mA to 600.8444 mA
+05:58:13 Reward: [[0.09070231]]
+05:58:13 The module P1DX changed from 26.0084 mA to 26.5084 mA
+05:58:13 Reward: [[0.09086166]]
+05:58:13 The module P1 changed from 1501.0 mA to 1502.0 mA
+05:58:13 Reward: [[0.09082183]]
+05:58:14 The module IL changed from 1284.0 mA to 1283.0 mA
+05:58:14 Reward: [[0.09085962]]
+05:58:14 The module ILDY changed from 5.550001 mA to 6.050001 mA
+05:58:14 Reward: [[0.09087252]]
+05:58:15 The module CL2DY changed from 58.96403 mA to 58.46403 mA
+05:58:15 Reward: [[0.09093602]]
+05:58:15 The module P2AY changed from 47.17548 mA to 47.67548 mA
+05:58:15 Reward: [[0.0909937]]
+05:58:16 The module DSTIGB changed from 36.07447 mA to 35.57447 mA
+05:58:16 Reward: [[0.09074923]]
+05:58:16 The module SELI changed from 285.1025 mA to 285.1125 mA
+05:58:16 Reward: [[0.09084384]]
+05:58:16 The module CL2DY changed from 58.46403 mA to 57.96403 mA
+05:58:17 Reward: [[0.09089707]]
+05:58:17 The module OSTIGB changed from 62.00241 mA to 58.00241 mA
+05:58:17 Reward: [[0.0909505]]
+05:58:17 The module ISTIGA changed from 5.64013 mA to 5.14013 mA
+05:58:17 Reward: [[0.09098325]]
+05:58:18 The module P1DY changed from 57.41543 mA to 56.91543 mA
+05:58:18 Reward: [[0.09116276]]
+05:58:18 The module CL2 changed from 2502.079 mA to 2501.079 mA
+05:58:18 Reward: [[0.09107008]]
+05:58:19 The module P2 changed from 4103.0 mA to 4102.0 mA
+05:58:19 Reward: [[0.09106317]]
+05:58:19 The module P2AY changed from 47.67548 mA to 48.17548 mA
+05:58:19 Reward: [[0.09094975]]
+05:58:20 The module SELO changed from 600.866 mA to 600.866 mA
+05:58:20 Reward: [[0.09076429]]
+05:58:20 The module OSTIGA changed from -47.99526 mA to -51.99526 mA
+05:58:20 Reward: [[0.09085021]]
+05:58:20 The module CL2DX changed from -15.81993 mA to -16.31993 mA
+05:58:21 Reward: [[0.09077372]]
+05:58:21 The module STV changed from -0.5899891 mA to -0.48998910000000007 mA
+05:58:21 Reward: [[0.09075936]]
+05:58:21 The module ISTIGA changed from 5.14013 mA to 4.64013 mA
+05:58:21 Reward: [[0.09080018]]
+05:58:22 The module STV changed from -0.4899891 mA to -0.3899891 mA
+05:58:22 Reward: [[0.09090645]]
+05:58:22 The module ISTIGB changed from -80.77237 mA to -80.27237 mA
+05:58:22 Reward: [[0.09088622]]
+05:58:23 The module TL changed from 680.1323 mA to 679.1323 mA
+05:58:23 Reward: [[0.09084136]]
+05:58:23 The module FL changed from 1695.0 mA to 1696.0 mA
+05:58:23 Reward: [[0.0908044]]
+05:58:24 The module OBJDX changed from 2.131806 mA to 2.3318060000000003 mA
+05:58:24 Reward: [[0.09079489]]
+05:58:24 The module SELI changed from 285.1127 mA to 285.1227 mA
+05:58:24 Reward: [[0.09069558]]
+05:58:24 The module CL1 changed from 890.0 mA to 891.0 mA
+05:58:25 Reward: [[0.09068008]]
+05:58:25 The module OBJDY changed from -4.334632 mA to -4.134632 mA
+05:58:25 Reward: [[0.09068485]]
+05:58:25 The module DSTIGB changed from 35.57447 mA to 35.07447 mA
+05:58:25 Reward: [[0.09067957]]
+05:58:26 The module CL3 changed from 880.0 mA to 881.0 mA
+05:58:26 Reward: [[0.09061826]]
+05:58:26 The module CL3 changed from 881.0 mA to 880.0 mA
+05:58:26 Reward: [[0.09073555]]
+05:58:27 The module MOBJ changed from 1658.055 mA to 1656.055 mA
+05:58:27 Reward: [[0.09075977]]
+05:58:27 The module DSTIGB changed from 35.07447 mA to 35.57447 mA
+05:58:27 Reward: [[0.09071117]]
+05:58:27 The module ISTIGB changed from -80.27237 mA to -79.77237 mA
+05:58:28 Reward: [[0.09067774]]
+05:58:28 The module DSTIGA changed from -21.19139 mA to -21.69139 mA
+05:58:28 Reward: [[0.09088465]]
+05:58:28 The module CL2 changed from 2501.079 mA to 2500.079 mA
+05:58:28 Reward: [[0.09083472]]
+05:58:29 The module CL2DY changed from 57.96403 mA to 57.46403 mA
+05:58:29 Reward: [[0.09070374]]
+05:58:29 The module P2AX changed from -28.85268 mA to -29.35268 mA
+05:58:29 Reward: [[0.09088999]]
+05:58:30 The module DSTIGB changed from 35.57447 mA to 36.07447 mA
+05:58:30 Reward: [[0.09090823]]
+05:58:30 The module SELO changed from 600.8876 mA to 600.8876 mA
+05:58:30 Reward: [[0.09089898]]
+05:58:31 The module CL1 changed from 891.0 mA to 890.0 mA
+05:58:31 Reward: [[0.09081477]]
+05:58:31 The module OSTIGA changed from -51.99526 mA to -47.99526 mA
+05:58:31 Reward: [[0.09089967]]
+05:58:31 The module P1 changed from 1502.0 mA to 1501.0 mA
+05:58:32 Reward: [[0.09073015]]
+05:58:32 The module TL changed from 679.1323 mA to 678.1323 mA
+05:58:32 Reward: [[0.09080788]]
+05:58:32 The module OSTIGA changed from -47.99526 mA to -51.99526 mA
+05:58:32 Reward: [[0.09087977]]
+05:58:33 The module P1 changed from 1501.0 mA to 1500.0 mA
+05:58:33 Reward: [[0.09061395]]
+05:58:33 The module ILDX changed from -24.81 mA to -24.31 mA
+05:58:33 Reward: [[0.09077853]]
+05:58:34 The module CL1 changed from 890.0 mA to 889.0 mA
+05:58:34 Reward: [[0.09085979]]
+05:58:34 The module ILUDX changed from -12.34349 mA to -12.84349 mA
+05:58:34 Reward: [[0.09107335]]
+05:58:35 The module ILDX changed from -24.31 mA to -24.81 mA
+05:58:35 Reward: [[0.09108016]]
+05:58:35 The module CL2DY changed from 57.46403 mA to 56.96403 mA
+05:58:35 Reward: [[0.09087796]]
+05:58:35 The module CL2 changed from 2500.079 mA to 2501.079 mA
+05:58:36 Reward: [[0.09090986]]
+05:58:36 The module FLDX changed from -1.62 mA to -1.82 mA
+05:58:36 Reward: [[0.09099402]]
+05:58:36 The module CL3 changed from 880.0 mA to 879.0 mA
+05:58:36 Reward: [[0.09090929]]
+05:58:37 The module CL3DX changed from 137.38 mA to 136.88 mA
+05:58:37 Reward: [[0.09090158]]
+05:58:37 The module FLDY changed from 33.0656 mA to 32.5656 mA
+05:58:37 Reward: [[0.09089223]]
+05:58:38 The module SELI changed from 285.123 mA to 285.133 mA
+05:58:38 Reward: [[0.0908465]]
+05:58:38 The module SELO changed from 600.9092 mA to 600.9092 mA
+05:58:38 Reward: [[0.09091238]]
+05:58:39 The module CL2DX changed from -16.31993 mA to -16.81993 mA
+05:58:39 Reward: [[0.09108469]]
+05:58:39 The module OSTIGB changed from 58.00241 mA to 54.00241 mA
+05:58:39 Reward: [[0.09112574]]
+05:58:39 The module OSTIGB changed from 54.00241 mA to 50.00241 mA
+05:58:40 Reward: [[0.09096363]]
+05:58:40 The module DSTIGB changed from 36.07447 mA to 35.57447 mA
+05:58:40 Reward: [[0.09090147]]
+05:58:40 The module OBJDY changed from -4.134632 mA to -3.9346319999999997 mA
+05:58:40 Reward: [[0.09099399]]
+05:58:41 The module CL3DY changed from -130.9348 mA to -131.4348 mA
+05:58:41 Reward: [[0.09088276]]
+05:58:41 The module STV changed from -0.3899891 mA to -0.48998909999999996 mA
+05:58:41 Reward: [[0.09110699]]
+05:58:42 The module ILDX changed from -24.81 mA to -25.31 mA
+05:58:42 Reward: [[0.09106761]]
+05:58:42 The module DSTIGA changed from -21.69139 mA to -22.19139 mA
+05:58:42 Reward: [[0.0910808]]
+05:58:42 The module CL3 changed from 879.0 mA to 878.0 mA
+05:58:43 Reward: [[0.09099538]]
+05:58:43 The module ILUDX changed from -12.84349 mA to -13.34349 mA
+05:58:43 Reward: [[0.09100562]]
+05:58:43 The module OSTIGA changed from -51.99526 mA to -55.99526 mA
+05:58:43 Reward: [[0.09103497]]
+05:58:44 The module TL changed from 678.1323 mA to 677.1323 mA
+05:58:44 Reward: [[0.09084402]]
+05:58:44 The module CL2DY changed from 56.96403 mA to 57.46403 mA
+05:58:44 Reward: [[0.09092134]]
+05:58:45 The module FL changed from 1696.0 mA to 1695.0 mA
+05:58:45 Reward: [[0.09106424]]
+05:58:45 The module CL2DX changed from -16.81993 mA to -17.31993 mA
+05:58:45 Reward: [[0.09094944]]
+05:58:46 The module P1 changed from 1500.0 mA to 1501.0 mA
+05:58:46 Reward: [[0.09107691]]
+05:58:46 The module CL2 changed from 2501.079 mA to 2502.079 mA
+05:58:46 Reward: [[0.09093654]]
+05:58:47 The module ILUDX changed from -13.34349 mA to -13.84349 mA
+05:58:47 Reward: [[0.09088517]]
+05:58:47 The module FL changed from 1695.0 mA to 1694.0 mA
+05:58:47 Reward: [[0.09089279]]
+05:58:47 The module CL1 changed from 889.0 mA to 888.0 mA
+05:58:48 Reward: [[0.09102015]]
+05:58:48 The module P2AY changed from 48.17548 mA to 48.67548 mA
+05:58:48 Reward: [[0.0908937]]
+05:58:48 The module OSTIGB changed from 50.00241 mA to 46.00241 mA
+05:58:48 Reward: [[0.09102861]]
+05:58:49 The module P1DX changed from 26.5084 mA to 27.0084 mA
+05:58:49 Reward: [[0.09090096]]
+05:58:49 The module P2AY changed from 48.67548 mA to 49.17548 mA
+05:58:49 Reward: [[0.09080642]]
+05:58:50 The module ILDX changed from -25.31 mA to -25.81 mA
+05:58:50 Reward: [[0.09084618]]
+05:58:50 The module CL3 changed from 878.0 mA to 879.0 mA
+05:58:50 Reward: [[0.09088501]]
+05:58:50 The module ILDY changed from 6.050001 mA to 6.550001 mA
+05:58:51 Reward: [[0.09096963]]
+05:58:51 The module CL1 changed from 888.0 mA to 889.0 mA
+05:58:51 Reward: [[0.09111941]]
+05:58:51 The module P2AY changed from 49.17548 mA to 49.67548 mA
+05:58:51 Reward: [[0.09110833]]
+05:58:52 The module MOBJ changed from 1656.055 mA to 1658.055 mA
+05:58:52 Reward: [[0.09089777]]
+05:58:52 The module DSTIGB changed from 35.57447 mA to 35.07447 mA
+05:58:52 Reward: [[0.09072682]]
+05:58:53 The module OBJDX changed from 2.331806 mA to 2.531806 mA
+05:58:53 Reward: [[0.0906113]]
+05:58:53 The module CL2 changed from 2502.079 mA to 2503.079 mA
+05:58:53 Reward: [[0.09068264]]
+05:58:54 The module P1DX changed from 27.0084 mA to 27.5084 mA
+05:58:54 Reward: [[0.0908522]]
+05:58:54 The module P2 changed from 4102.0 mA to 4101.0 mA
+05:58:54 Reward: [[0.09082577]]
+05:58:54 The module P1DX changed from 27.5084 mA to 28.0084 mA
+05:58:55 Reward: [[0.09070776]]
+05:58:55 The module STV changed from -0.4899891 mA to -0.5899891 mA
+05:58:55 Reward: [[0.09075488]]
+05:58:55 The module ILDX changed from -25.81 mA to -25.31 mA
+05:58:55 Reward: [[0.09080451]]
+05:58:56 The module P1 changed from 1501.0 mA to 1500.0 mA
+05:58:56 Reward: [[0.09084503]]
+05:58:56 The module CL2DY changed from 57.46403 mA to 56.96403 mA
+05:58:56 Reward: [[0.09083501]]
+05:58:57 The module OBJDY changed from -3.934632 mA to -4.134632 mA
+05:58:57 Reward: [[0.09085308]]
+05:58:57 The module ILDY changed from 6.550001 mA to 7.050001 mA
+05:58:57 Reward: [[0.09079452]]
+05:58:58 The module IL changed from 1283.0 mA to 1282.0 mA
+05:58:58 Reward: [[0.09089148]]
+05:58:58 The module OSTIGA changed from -55.99526 mA to -51.99526 mA
+05:58:58 Reward: [[0.0908178]]
+05:58:58 The module ILUDX changed from -13.84349 mA to -13.34349 mA
+05:58:59 Reward: [[0.09069763]]
+05:58:59 The module OBJDX changed from 2.531806 mA to 2.731806 mA
+05:58:59 Reward: [[0.09079875]]
+05:58:59 The module ILUDX changed from -13.34349 mA to -13.84349 mA
+05:58:59 Reward: [[0.09106871]]
+05:59:00 The module P1DY changed from 56.91543 mA to 57.41543 mA
+05:59:00 Reward: [[0.09105053]]
+05:59:00 The module STV changed from -0.5899891 mA to -0.48998910000000007 mA
+05:59:00 Reward: [[0.09101701]]
+05:59:01 The module FLDY changed from 32.5656 mA to 32.0656 mA
+05:59:01 Reward: [[0.09097224]]
+05:59:01 The module P1DY changed from 57.41543 mA to 56.91543 mA
+05:59:01 Reward: [[0.09084721]]
+05:59:02 The module P2AX changed from -29.35268 mA to -28.85268 mA
+05:59:02 Reward: [[0.09094703]]
+05:59:02 The module OBJDX changed from 2.731806 mA to 2.531806 mA
+05:59:02 Reward: [[0.09100986]]
+05:59:03 The module ILUDX changed from -13.84349 mA to -14.34349 mA
+05:59:03 Reward: [[0.09091565]]
+05:59:03 The module CL1 changed from 889.0 mA to 890.0 mA
+05:59:03 Reward: [[0.09084278]]
+05:59:03 The module FLDX changed from -1.82 mA to -1.62 mA
+05:59:04 Reward: [[0.09078629]]
+05:59:04 The module DSTIGB changed from 35.07447 mA to 35.57447 mA
+05:59:04 Reward: [[0.09062938]]
+05:59:04 The module CL3DX changed from 136.88 mA to 137.38 mA
+05:59:04 Reward: [[0.09069666]]
+05:59:05 The module DSTIGB changed from 35.57447 mA to 36.07447 mA
+05:59:05 Reward: [[0.09069176]]
+05:59:05 The module TL changed from 677.1323 mA to 676.1323 mA
+05:59:05 Reward: [[0.09070849]]
+05:59:06 The module DSTIGB changed from 36.07447 mA to 36.57447 mA
+05:59:06 Reward: [[0.09078238]]
+05:59:06 The module P2AY changed from 49.67548 mA to 50.17548 mA
+05:59:06 Reward: [[0.09082316]]
+05:59:07 The module P1 changed from 1500.0 mA to 1501.0 mA
+05:59:07 Reward: [[0.09075403]]
+05:59:07 The module CL1 changed from 890.0 mA to 891.0 mA
+05:59:07 Reward: [[0.0907461]]
+05:59:07 The module DSTIGB changed from 36.57447 mA to 37.07447 mA
+05:59:08 Reward: [[0.09088366]]
+05:59:08 The module CL2 changed from 2503.079 mA to 2502.079 mA
+05:59:08 Reward: [[0.090766]]
+05:59:08 The module OSTIGB changed from 46.00241 mA to 42.00241 mA
+05:59:08 Reward: [[0.09057196]]
+05:59:09 The module P1 changed from 1501.0 mA to 1502.0 mA
+05:59:09 Reward: [[0.0905459]]
+05:59:09 The module CL2DX changed from -17.31993 mA to -16.81993 mA
+05:59:09 Reward: [[0.09045793]]
+05:59:10 The module DSTIGB changed from 37.07447 mA to 36.57447 mA
+05:59:10 Reward: [[0.09052464]]
+05:59:10 The module P1DY changed from 56.91543 mA to 56.41543 mA
+05:59:10 Reward: [[0.09065111]]
+05:59:11 The module OSTIGB changed from 42.00241 mA to 46.00241 mA
+05:59:11 Reward: [[0.0907222]]
+05:59:11 The module MOBJ changed from 1658.055 mA to 1660.055 mA
+05:59:11 Reward: [[0.09065336]]
+05:59:12 The module MOBJ changed from 1660.055 mA to 1658.055 mA
+05:59:12 Reward: [[0.09054569]]
+05:59:12 The module OSTIGA changed from -51.99526 mA to -55.99526 mA
+05:59:12 Reward: [[0.09059952]]
+05:59:12 The module SELO changed from 600.9092 mA to 600.9092 mA
+05:59:13 Reward: [[0.09043466]]
+05:59:13 The module CL2 changed from 2502.079 mA to 2501.079 mA
+05:59:13 Reward: [[0.09045866]]
+05:59:13 The module P1DX changed from 28.0084 mA to 27.5084 mA
+05:59:13 Reward: [[0.09036509]]
+05:59:14 The module CL2DX changed from -16.81993 mA to -16.31993 mA
+05:59:14 Reward: [[0.09030749]]
+05:59:14 The module FLDX changed from -1.62 mA to -1.82 mA
+05:59:14 Reward: [[0.09032105]]
+05:59:15 The module P2 changed from 4101.0 mA to 4102.0 mA
+05:59:15 Reward: [[0.09028866]]
+05:59:15 The module FL changed from 1694.0 mA to 1695.0 mA
+05:59:15 Reward: [[0.09043019]]
+05:59:16 The module P2 changed from 4102.0 mA to 4101.0 mA
+05:59:16 Reward: [[0.09046077]]
+05:59:16 The module CL2DY changed from 56.96403 mA to 56.46403 mA
+05:59:16 Reward: [[0.09055355]]
+05:59:16 The module OBJDX changed from 2.531806 mA to 2.731806 mA
+05:59:17 Reward: [[0.09043979]]
+05:59:17 The module P2AX changed from -28.85268 mA to -28.35268 mA
+05:59:17 Reward: [[0.09056224]]
+05:59:17 The module FLDX changed from -1.82 mA to -1.62 mA
+05:59:18 Reward: [[0.09052988]]
+05:59:18 The module SELO changed from 600.9092 mA to 600.9092 mA
+05:59:18 Reward: [[0.09049571]]
+05:59:18 The module ILUDY changed from -5.723849 mA to -5.223849 mA
+05:59:18 Reward: [[0.0904879]]
+05:59:19 The module OSTIGA changed from -55.99526 mA to -51.99526 mA
+05:59:19 Reward: [[0.09019566]]
+05:59:19 The module DSTIGA changed from -22.19139 mA to -22.69139 mA
+05:59:19 Reward: [[0.09000224]]
+05:59:20 The module IL changed from 1282.0 mA to 1283.0 mA
+05:59:20 Reward: [[0.09020972]]
+05:59:20 The module DSTIGA changed from -22.69139 mA to -23.19139 mA
+05:59:20 Reward: [[0.09019052]]
+05:59:20 The module IL changed from 1283.0 mA to 1282.0 mA
+05:59:21 Reward: [[0.09024671]]
+05:59:21 The module CL3DX changed from 137.38 mA to 136.88 mA
+05:59:21 Reward: [[0.09031037]]
+05:59:21 The module P2AY changed from 50.17548 mA to 49.67548 mA
+05:59:21 Reward: [[0.09041111]]
+05:59:22 The module P1 changed from 1502.0 mA to 1503.0 mA
+05:59:22 Reward: [[0.09038803]]
+05:59:22 The module CL2 changed from 2501.079 mA to 2502.079 mA
+05:59:22 Reward: [[0.09038134]]
+05:59:23 The module FLDX changed from -1.62 mA to -1.4200000000000002 mA
+05:59:23 Reward: [[0.09053212]]
+05:59:23 The module CL3DX changed from 136.88 mA to 136.38 mA
+05:59:23 Reward: [[0.09058121]]
+05:59:24 The module CL1 changed from 891.0 mA to 892.0 mA
+05:59:24 Reward: [[0.09041729]]
+05:59:24 The module CL1 changed from 892.0 mA to 891.0 mA
+05:59:24 Reward: [[0.09048483]]
+05:59:24 The module ISTIGB changed from -79.77237 mA to -80.27237 mA
+05:59:25 Reward: [[0.09049108]]
+05:59:25 The module FL changed from 1695.0 mA to 1694.0 mA
+05:59:25 Reward: [[0.09061844]]
+05:59:25 The module P2AX changed from -28.35268 mA to -28.85268 mA
+05:59:26 Reward: [[0.09059825]]
+05:59:26 The module MOBJ changed from 1658.055 mA to 1656.055 mA
+05:59:26 Reward: [[0.09044293]]
+05:59:26 The module ISTIGB changed from -80.27237 mA to -80.77237 mA
+05:59:26 Reward: [[0.09029614]]
+05:59:27 The module STV changed from -0.4899891 mA to -0.3899891 mA
+05:59:27 Reward: [[0.09038615]]
+05:59:27 The module OSTIGA changed from -51.99526 mA to -55.99526 mA
+05:59:27 Reward: [[0.09064446]]
+05:59:28 The module CL2 changed from 2502.079 mA to 2503.079 mA
+05:59:28 Reward: [[0.09034829]]
+05:59:28 The module TL changed from 676.1323 mA to 675.1323 mA
+05:59:28 Reward: [[0.09033332]]
+05:59:28 The module MOBJ changed from 1656.055 mA to 1654.055 mA
+05:59:29 Reward: [[0.09035406]]
+05:59:29 The module TL changed from 675.1323 mA to 676.1323 mA
+05:59:29 Reward: [[0.09024275]]
+05:59:29 The module CL2DX changed from -16.31993 mA to -16.81993 mA
+05:59:29 Reward: [[0.09033114]]
+05:59:30 The module CL1 changed from 891.0 mA to 890.0 mA
+05:59:30 Reward: [[0.0904048]]
+05:59:30 The module SELO changed from 600.9092 mA to 600.9092 mA
+05:59:30 Reward: [[0.09064441]]
+05:59:31 The module P1 changed from 1503.0 mA to 1502.0 mA
+05:59:31 Reward: [[0.09078867]]
+05:59:31 The module DSTIGB changed from 36.57447 mA to 37.07447 mA
+05:59:31 Reward: [[0.09062963]]
+05:59:32 The module ILUDX changed from -14.34349 mA to -14.84349 mA
+05:59:32 Reward: [[0.09060204]]
+05:59:32 The module P2AX changed from -28.85268 mA to -29.35268 mA
+05:59:32 Reward: [[0.09067434]]
+05:59:32 The module OBJDY changed from -4.134632 mA to -3.9346319999999997 mA
+05:59:33 Reward: [[0.09059529]]
+05:59:33 The module MOBJ changed from 1654.055 mA to 1656.055 mA
+05:59:33 Reward: [[0.09043453]]
+05:59:33 The module OSTIGA changed from -55.99526 mA to -59.99526 mA
+05:59:34 Reward: [[0.09020248]]
+05:59:34 The module FLDY changed from 32.0656 mA to 32.5656 mA
+05:59:34 Reward: [[0.09023671]]
+05:59:34 The module OSTIGA changed from -59.99526 mA to -55.99526 mA
+05:59:34 Reward: [[0.09030998]]
+05:59:35 The module FLDX changed from -1.42 mA to -1.6199999999999999 mA
+05:59:35 Reward: [[0.09040851]]
+05:59:35 The module P1 changed from 1502.0 mA to 1503.0 mA
+05:59:35 Reward: [[0.09077374]]
+05:59:36 The module P1DY changed from 56.41543 mA to 55.91543 mA
+05:59:36 Reward: [[0.09084338]]
+05:59:36 The module CL2 changed from 2503.079 mA to 2502.079 mA
+05:59:36 Reward: [[0.09085562]]
+05:59:37 The module OSTIGA changed from -55.99526 mA to -51.99526 mA
+05:59:37 Reward: [[0.09079038]]
+05:59:37 The module CL2DY changed from 56.46403 mA to 55.96403 mA
+05:59:37 Reward: [[0.09074935]]
+05:59:37 The module CL1 changed from 890.0 mA to 891.0 mA
+05:59:38 Reward: [[0.09062112]]
+05:59:38 The module ILUDX changed from -14.84349 mA to -14.34349 mA
+05:59:38 Reward: [[0.09054177]]
+05:59:38 The module STV changed from -0.3899891 mA to -0.48998909999999996 mA
+05:59:38 Reward: [[0.09053045]]
+05:59:39 The module P2AY changed from 49.67548 mA to 50.17548 mA
+05:59:39 Reward: [[0.09059111]]
+05:59:39 The module ILUDY changed from -5.223849 mA to -4.723849 mA
+05:59:39 Reward: [[0.09052875]]
+05:59:40 The module CL2DY changed from 55.96403 mA to 56.46403 mA
+05:59:40 Reward: [[0.09056493]]
+05:59:40 The module OSTIGB changed from 46.00241 mA to 50.00241 mA
+05:59:40 Reward: [[0.09051021]]
+05:59:40 The module ILUDY changed from -4.723849 mA to -5.223849 mA
+05:59:41 Reward: [[0.090556]]
+05:59:41 The module CL3DX changed from 136.38 mA to 135.88 mA
+05:59:41 Reward: [[0.09028903]]
+05:59:41 The module ILDX changed from -25.31 mA to -25.81 mA
+05:59:42 Reward: [[0.09054773]]
+05:59:42 The module OBJDX changed from 2.731806 mA to 2.9318060000000004 mA
+05:59:42 Reward: [[0.09051198]]
+05:59:42 The module ISTIGB changed from -80.77237 mA to -80.27237 mA
+05:59:42 Reward: [[0.09045347]]
+05:59:43 The module OBJDX changed from 2.931806 mA to 2.7318059999999997 mA
+05:59:43 Reward: [[0.09066992]]
+05:59:43 The module ILDX changed from -25.81 mA to -26.31 mA
+05:59:43 Reward: [[0.09074077]]
+05:59:44 The module P1DX changed from 27.5084 mA to 27.0084 mA
+05:59:44 Reward: [[0.09071624]]
+05:59:44 The module OBJDY changed from -3.934632 mA to -4.134632 mA
+05:59:44 Reward: [[0.09078787]]
+05:59:44 The module P2 changed from 4101.0 mA to 4100.0 mA
+05:59:45 Reward: [[0.09073448]]
+05:59:45 The module ISTIGB changed from -80.27237 mA to -79.77237 mA
+05:59:45 Reward: [[0.09058751]]
+05:59:45 The module CL2 changed from 2502.079 mA to 2501.079 mA
+05:59:46 Reward: [[0.09071132]]
+05:59:46 The module OBJDY changed from -4.134632 mA to -3.9346319999999997 mA
+05:59:46 Reward: [[0.0906251]]
+05:59:46 The module P2AX changed from -29.35268 mA to -28.85268 mA
+05:59:46 Reward: [[0.0906522]]
+05:59:47 The module FL changed from 1694.0 mA to 1695.0 mA
+05:59:47 Reward: [[0.09063004]]
+05:59:47 The module CL3DX changed from 135.88 mA to 135.38 mA
+05:59:47 Reward: [[0.09079541]]
+05:59:48 The module CL3 changed from 879.0 mA to 878.0 mA
+05:59:48 Reward: [[0.09095449]]
+05:59:48 The module ISTIGA changed from 4.64013 mA to 5.14013 mA
+05:59:48 Reward: [[0.09092495]]
+05:59:48 The module SELI changed from 285.1332 mA to 285.1432 mA
+05:59:49 Reward: [[0.09093523]]
+05:59:49 The module CL2 changed from 2501.079 mA to 2500.079 mA
+05:59:49 Reward: [[0.09077718]]
+05:59:49 The module P1 changed from 1503.0 mA to 1502.0 mA
+05:59:50 Reward: [[0.09089962]]
+05:59:50 The module IL changed from 1282.0 mA to 1283.0 mA
+05:59:50 Reward: [[0.09065314]]
+05:59:50 The module SELO changed from 600.9307 mA to 600.9307 mA
+05:59:50 Reward: [[0.09073997]]
+05:59:51 The module FL changed from 1695.0 mA to 1694.0 mA
+05:59:51 Reward: [[0.09087583]]
+05:59:51 The module CL3DX changed from 135.38 mA to 135.88 mA
+05:59:51 Reward: [[0.09089715]]
+05:59:52 The module ISTIGB changed from -79.77237 mA to -79.27237 mA
+05:59:52 Reward: [[0.09091059]]
+05:59:52 The module ILDX changed from -26.31 mA to -26.81 mA
+05:59:52 Reward: [[0.09082606]]
+05:59:52 The module CL3 changed from 878.0 mA to 877.0 mA
+05:59:53 Reward: [[0.09068957]]
+05:59:53 The module FLDY changed from 32.5656 mA to 33.0656 mA
+05:59:53 Reward: [[0.09075634]]
+05:59:53 The module ISTIGB changed from -79.27237 mA to -78.77237 mA
+05:59:54 Reward: [[0.09058952]]
+05:59:54 The module ILDY changed from 7.050001 mA to 7.550001 mA
+05:59:54 Reward: [[0.09067362]]
+05:59:54 The module ISTIGB changed from -78.77237 mA to -78.27237 mA
+05:59:54 Reward: [[0.09068525]]
+05:59:55 The module P2 changed from 4100.0 mA to 4099.0 mA
+05:59:55 Reward: [[0.09078234]]
+05:59:55 The module OBJDY changed from -3.934632 mA to -3.734632 mA
+05:59:55 Reward: [[0.09084407]]
+05:59:56 The module DSTIGB changed from 37.07447 mA to 36.57447 mA
+05:59:56 Reward: [[0.09087636]]
+05:59:56 The module P2 changed from 4099.0 mA to 4098.0 mA
+05:59:56 Reward: [[0.09086098]]
+05:59:56 The module P1 changed from 1502.0 mA to 1501.0 mA
+05:59:57 Reward: [[0.09081674]]
+05:59:57 The module CL3 changed from 877.0 mA to 878.0 mA
+05:59:57 Reward: [[0.09071317]]
+05:59:57 The module P2AY changed from 50.17548 mA to 50.67548 mA
+05:59:58 Reward: [[0.09082754]]
+05:59:58 The module CL3DY changed from -131.4348 mA to -130.9348 mA
+05:59:58 Reward: [[0.09074128]]
+05:59:58 The module MOBJ changed from 1656.055 mA to 1654.055 mA
+05:59:58 Reward: [[0.0907967]]
+05:59:59 The module ILUDY changed from -5.223849 mA to -5.723849 mA
+05:59:59 Reward: [[0.09050772]]
+05:59:59 The module CL2 changed from 2500.079 mA to 2499.079 mA
+05:59:59 Reward: [[0.09053666]]
+06:00:00 The module ILDX changed from -26.81 mA to -27.31 mA
+06:00:00 Reward: [[0.09094167]]
+06:00:00 The module CL3DY changed from -130.9348 mA to -131.4348 mA
+06:00:00 Reward: [[0.09087634]]
+06:00:00 The module CL3DY changed from -131.4348 mA to -130.9348 mA
+06:00:01 Reward: [[0.09097067]]
+06:00:01 The module CL3 changed from 878.0 mA to 879.0 mA
+06:00:01 Reward: [[0.09089633]]

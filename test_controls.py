@@ -1,4 +1,3 @@
-from simple_cofiguration import Environment
 import numpy as np
 import matplotlib.pyplot as plt
 from tools import rawToImage
@@ -6,21 +5,7 @@ import os
 from check_resolution import ImageEvaluation
 from LEEMcontrol import oLeem
 from UVIEWcontrol import oUview
-
-def test_image_creation():
-    env = Environment(120, 20, -20)
-    n_images = 5
-    env.setFluffy()
-    template = "state: {}, reward: {}"
-    for i in range(n_images):
-        state, reward, image, done = env.step(np.random.randint(0, env.n_actions))
-        print(template.format(state, reward))
-        if image is not None:
-            plt.imshow(image)
-            plt.savefig(env.path + "read_img_" + str(i) + ".png")
-            plt.close()
-        # success
-
+from myLEEM import LEEM_remote
 
 def test_resolution_score():
     template = " : resolution_score is {}"
@@ -78,10 +63,22 @@ def test_LEEM_control(change_module=False):
 
 
 def test_Uview_control():
-    Uv = oUview()  # set port
-    plt.imshow(Uv.getImage())
+    Uv = oUview(port=5570, ip='localhost')  # set port
+    img = Uv.getImage()
+    print('shape: {} and type: {}'.format(img.shape, type(img)))
+    plt.imshow(img)
     plt.show()
+    img2 = Uv.getImage()
+    plt.imshow(img2)
+    plt.show()
+    Uv.disconnect()
+
+
+def test_LEEM_modules():
+    LEEM = LEEM_remote()
+    LEEM.print_state(save=True)
+    print(LEEM.change)
 
 
 if __name__ == '__main__':
-    test_LEEM_control(change_module=True)
+    test_LEEM_modules()

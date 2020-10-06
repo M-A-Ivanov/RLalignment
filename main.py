@@ -14,9 +14,10 @@ from ReplayBuffer import ReplayBuffer
 from DDQRLNetwork import DDQNetwork
 from myLEEM import LEEM_remote
 from agent import Agent
+import json
 
 
-LEEM = LEEM_remote
+LEEM = LEEM_remote()
 # TensorBoard writer
 writer = tf.summary.create_file_writer(TENSORBOARD_DIR)
 
@@ -65,7 +66,7 @@ try:
 
                     # Add experience to replay memory
                     agent.add_experience(action=action,
-                                         frame=processed_frame[:, :],
+                                         frame=processed_frame,
                                          reward=reward, clip_reward=CLIP_REWARD)
 
                     # Update agent
@@ -137,7 +138,7 @@ try:
 except KeyboardInterrupt:
     print('\nTraining exited early.')
     writer.close()
-
+    LEEM.reset()
     if SAVE_PATH is None:
         try:
             SAVE_PATH = input(
